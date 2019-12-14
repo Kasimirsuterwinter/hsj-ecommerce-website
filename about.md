@@ -1,38 +1,31 @@
 ---
 title: About
-headline: We are Planty
-introduction: >-
-  Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-  from Québec City. Planty is a theme we built for
-  [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-  enable e-commerce on Planty, you’ll need to [sign up for
-  Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-  required.
+headline: Helen Suter
+introduction: Born in Bern, Switzerland, Helen Suter was raised in Peru, Switzerland
+  and South Africa. After attending Michaelis School of Fine Art at the University
+  of Cape Town, where she earned an Advanced Diploma and MFA in sculpture summa cum
+  laude, she re-located to NYC. Working in fashion, she started a belt business which
+  led to opening her first art studios. In 2001, she moved her family to a farm in
+  the rural Hudson Valley where she raised her two sons.
 bulletpoints:
-  - title: We love plants
-    description: >-
-      Now THAT is true, but we love web development even more. We talk about it
-      on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live
-      demos and open source these bad boys [on
-      GitHub](https://github.com/snipcart). Matter of fact, this Planty theme
-      [is open source too](https://github.com/snipcart/stackbit-theme-planty)!
-      If you spot any bugs, open an issue, and we’ll fire our junior dev. Just
-      kidding Michael, you’re good.
-    image:
-      optimized: images/nan_talk.webp
-      fallback: images/nan_talk.jpg
-  - title: We think plants are the future
-    description: >-
-      Word. But good **code** _can_ solve a lots of problems, too. New _and_
-      old. That’s why we help beginners get started with web development through
-      free content and tools, like this theme. We also believe [the
-      JAMstack](https://jamstack.org/) might be one solid pillar on which we
-      build that future.
-    image:
-      optimized: images/team.webp
-      fallback: images/team.jpg
-menus:
+- title: Natural Materials
+  description: 'All of my jewelry is created using precious and semiprecious beads
+    and metals. I look for the unusual yet natural in all of my compositions. Stemming
+    from my respect for the beauty of the natural world. '
+  image:
+    optimized: ''
+    fallback: "/images/external-content.duckduckgo.com.jpg"
+- title: Made in the Hudson Valley
+  description: 'After living across the world, I have found myself here in the beautiful
+    Hudson Valley. I take great inspiration from the local artistic history, especially
+    the famous American painter Fredrick Church who built his home Olana, with views
+    across the Hudson River. '
+  image:
+    optimized: ''
+    fallback: "/images/Olana,_August_2015.jpg"
+layout: about
+menu:
   main:
     weight: 2
-layout: about
+
 ---
