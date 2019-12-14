@@ -18,7 +18,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/Dark Blue Crystal Necklace.jpg"
-category: cactuses
+category: necklace
 featured: true
 section: Store
 layout: product
