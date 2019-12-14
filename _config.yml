@@ -1,16 +1,16 @@
 baseurl: /
 permalink: '/:title/'
-title: Snipcart
+title: Helen Suter Jewelry
 snipcart_js: 'https://cdn.snipcart.com/themes/v3.0.0-beta.4.1/default/snipcart.js'
 snipcart_css: 'https://cdn.snipcart.com/themes/v3.0.0-beta.4.1/default/snipcart.css'
 snipcart_api_key: YTlkMmJlNjQtYWIwMi00MDk0LTlkYmEtZTE0Y2IxMzM3NjM5NjM2OTc5MzgxOTUwNzM4Njc1
 logos:
   light:
-    optimized: images/logo-white.svg
-    fallback: images/logo-white.svg
+    optimized: images/hs-jewelry-logo-light.svg
+    fallback: images/hs-jewelry-logo-light.svg
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: images/hs-jewelry-logo-dark.svg
+    fallback: images/hs-jewelry-logo-dark.svg
 palette: default
 palettes:
   default:
@@ -19,10 +19,10 @@ palettes:
       light: '#F0F0F0'
       medium: '#6B797A'
       dark: '#384647'
-      active: '#88DD9B'
-      active_light: '#C0FDB6'
-      active_medium: '#5C9174'
-      active_dark: '#547567'
+      active: '#ffcb00'
+      active_light: '#ffeb9d'
+      active_medium: '#ffcf14'
+      active_dark: '#9d7d00'
       dark_grey: '#273132'
       light_grey: '#6B797A'
       bg_image_primary_optimized: /images/header.webp
