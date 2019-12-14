@@ -1,29 +1,29 @@
 ---
-id: '9'
-title: Fusce sagittis
-description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
-price: '400.00'
+id: "9"
+title: Dark Blue Crystal Necklace
+description: Dark Blue crystal necklace with dark gray metal spacers.
+price: "95"
 images:
   default:
     thumbnail:
-      optimized: /images/plant9.webp
-      fallback: /images/plant9.jpg
+      optimized: ''
+      fallback: "/images/Dark Blue Crystal Necklace_thumbnail.jpg"
     original:
-      optimized: /images/plant9-lg.webp
-      fallback: /images/plant9-lg.jpg
+      optimized: ''
+      fallback: "/images/Dark Blue Crystal Necklace.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant9-featured.webp
-      fallback: /images/plant9-featured.jpg
+      optimized: ''
+      fallback: "/images/Dark Blue Crystal Necklace_thumbnail.jpg"
     original:
-      optimized: /images/plant9-featured-lg.webp
-      fallback: /images/plant9-featured-lg.jpg
+      optimized: ''
+      fallback: "/images/Dark Blue Crystal Necklace.jpg"
 category: cactuses
 featured: true
 section: Store
 layout: product
+
 ---
+# Dark Blue Crystal Necklace
 
-# Fusce sagittis
-
-Vestibulum blandit sem mattis metus blandit pharetra at at ipsum. Vestibulum luctus quis turpis ac sollicitudin. Etiam ultricies pharetra velit. Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci. Donec congue pharetra massa, ut venenatis nibh volutpat vel. Quisque eu sapien arcu. Nunc feugiat dictum tincidunt. Etiam sodales tellus tempus auctor vehicula. Praesent eget sapien dignissim, vehicula quam id, vehicula libero. Fusce sagittis gravida nulla ac bibendum. Duis lacinia egestas fringilla. Fusce quis metus semper, molestie massa finibus, laoreet magna. Aliquam gravida ipsum id nisl efficitur aliquam.
+Dark Blue crystal necklace with dark gray metal spacers.
