@@ -25,6 +25,3 @@ fields:
   default: category
   config:
     required: true
-pages:
-- category/europe.md
-- category/summer.md
