@@ -1,6 +1,6 @@
 ---
-slug: rings
-title: Rings
+slug: ring
+title: Ring
 section: Store
 menus:
   categories:

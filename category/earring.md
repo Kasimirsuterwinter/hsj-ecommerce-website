@@ -1,6 +1,6 @@
 ---
-slug: earrings
-title: Earrings
+slug: earring
+title: Earring
 section: Store
 menus:
   categories:
