@@ -1,29 +1,29 @@
 ---
-id: '8'
-title: Fusce sed
-description: In cursus sagittis eros non congue.
-price: '50.00'
+id: "8"
+title: Rainbow Crystal Necklace
+description: Glistening rainbow crystals with dark grey metal beads.
+price: "95"
 images:
   default:
     thumbnail:
-      optimized: /images/plant8.webp
-      fallback: /images/plant8.jpg
+      optimized: ''
+      fallback: "/images/Rainbow Crystal Necklace_thumbnail.jpg"
     original:
-      optimized: /images/plant8-lg.webp
-      fallback: /images/plant8-lg.jpg
+      optimized: ''
+      fallback: "/images/Rainbow Crystal Necklace.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant8-featured.webp
-      fallback: /images/plant8-featured.jpg
+      optimized: "/images/plant8-featured.webp"
+      fallback: "/images/plant8-featured.jpg"
     original:
-      optimized: /images/plant8-featured-lg.webp
-      fallback: /images/plant8-featured-lg.jpg
-category: summer
+      optimized: "/images/plant8-featured-lg.webp"
+      fallback: "/images/plant8-featured-lg.jpg"
+category: necklace
 featured: false
 section: Store
 layout: product
+
 ---
+# Rainbow Crystal Necklace
 
-# Fusce sed
-
-Sed consectetur eleifend neque. Morbi fringilla velit neque, quis aliquet diam rutrum eget. Praesent dui leo, iaculis non auctor sed, accumsan at felis. Suspendisse eu pretium justo. Curabitur et velit quis justo elementum iaculis. Fusce sed tortor id diam rhoncus accumsan. In cursus sagittis eros non congue.
+Glistening rainbow crystals with dark grey metal beads.

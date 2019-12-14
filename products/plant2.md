@@ -1,29 +1,29 @@
 ---
-id: '2'
-title: Integer porta
-description: Suspendisse efficitur eget erat sit amet efficitur.
-price: '99.00'
+id: "2"
+title: Red Coral Necklace
+description: Red coral beaded necklace with dark grey spacer beads.
+price: "95"
 images:
   default:
     thumbnail:
-      optimized: /images/plant2.webp
-      fallback: /images/plant2.jpg
+      optimized: ''
+      fallback: "/images/Red Coral Necklace_thumbnail.jpg"
     original:
-      optimized: /images/plant2-lg.webp
-      fallback: /images/plant2-lg.jpg
+      optimized: ''
+      fallback: "/images/Red Coral Necklace.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant2-featured.webp
-      fallback: /images/plant2-featured.jpg
+      optimized: ''
+      fallback: "/images/Red Coral Necklace_thumbnail.jpg"
     original:
-      optimized: /images/plant2-featured-lg.webp
-      fallback: /images/plant2-featured-lg.jpg
-category: cactuses
+      optimized: ''
+      fallback: "/images/Red Coral Necklace.jpg"
+category: ring
 featured: true
 section: Store
 layout: product
+
 ---
+# Red Coral Necklace
 
-# Integer porta
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus.
+Red coral beaded necklace with dark grey spacer beads.
