@@ -1,9 +1,10 @@
 ---
-slug: bigplants
-title: Big plants
+slug: necklace
+title: Necklace
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 7
-layout: category
+
 ---
