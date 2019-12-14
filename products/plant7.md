@@ -1,29 +1,29 @@
 ---
-id: '7'
-title: Sed consectetur
-description: Fusce sed tortor id diam rhoncus accumsan.
-price: '18.90'
+id: "7"
+title: White Quartz Bracelet
+description: A bracelet of white quartz cubes separated by silver tubes.
+price: "58"
 images:
   default:
     thumbnail:
-      optimized: /images/plant7.webp
-      fallback: /images/plant7.jpg
+      optimized: ''
+      fallback: "/images/White Quartz Bracelet_thumbnail.jpg"
     original:
-      optimized: /images/plant7-lg.webp
-      fallback: /images/plant7-lg.jpg
+      optimized: ''
+      fallback: "/images/White Quartz Bracelet.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant7-featured.webp
-      fallback: /images/plant7-featured.jpg
+      optimized: "/images/plant7-featured.webp"
+      fallback: "/images/plant7-featured.jpg"
     original:
-      optimized: /images/plant7-featured-lg.webp
-      fallback: /images/plant7-featured-lg.jpg
-category: bigplants
+      optimized: "/images/plant7-featured-lg.webp"
+      fallback: "/images/plant7-featured-lg.jpg"
+category: bracelet
 featured: false
 section: Store
 layout: product
+
 ---
+# White Quartz Bracelet
 
-# Sed consectetur
-
-Sed consectetur eleifend neque. Morbi fringilla velit neque, quis aliquet diam rutrum eget. Praesent dui leo, iaculis non auctor sed, accumsan at felis. Suspendisse eu pretium justo. Curabitur et velit quis justo elementum iaculis. Fusce sed tortor id diam rhoncus accumsan. In cursus sagittis eros non congue.
+A bracelet of white quartz cubes separated by silver tubes.
