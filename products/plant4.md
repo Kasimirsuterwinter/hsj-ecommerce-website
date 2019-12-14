@@ -18,7 +18,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/IMG_6963.jpg"
-category: cactuses
+category: necklace
 featured: false
 section: Store
 layout: product
