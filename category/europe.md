@@ -1,6 +1,6 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: rings
+title: Rings
 section: Store
 menus:
   categories:

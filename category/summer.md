@@ -1,6 +1,6 @@
 ---
-slug: summer
-title: Summer plants
+slug: earrings
+title: Earrings
 section: Store
 menus:
   categories:
