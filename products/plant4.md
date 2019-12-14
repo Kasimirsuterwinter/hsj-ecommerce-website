@@ -1,29 +1,29 @@
 ---
-id: '4'
-title: Cras molestie
-description: Maecenas pretium blandit ex id lobortis.
-price: '24.99'
+id: "4"
+title: Black Wood Necklace
+description: " Naturally shaped black wooden beads separated by dark gray metal tubes. "
+price: "95"
 images:
   default:
     thumbnail:
-      optimized: /images/plant4.webp
-      fallback: /images/plant4.jpg
+      optimized: ''
+      fallback: "/images/IMG_6963 thumbnail.jpg"
     original:
-      optimized: /images/plant4-lg.webp
-      fallback: /images/plant4-lg.jpg
+      optimized: ''
+      fallback: "/images/IMG_6963.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant4-featured.webp
-      fallback: /images/plant4-featured.jpg
+      optimized: ''
+      fallback: "/images/IMG_6963 thumbnail.jpg"
     original:
-      optimized: /images/plant4-featured-lg.webp
-      fallback: /images/plant4-featured-lg.jpg
+      optimized: ''
+      fallback: "/images/IMG_6963.jpg"
 category: cactuses
 featured: false
 section: Store
 layout: product
+
 ---
+# Black Wood Necklace
 
-# Cras molestie
-
-Cras molestie faucibus ipsum ut vulputate. Suspendisse potenti. Donec nec diam odio. Nam ut tempus odio. Vivamus at vehicula felis. Ut ex ante, feugiat at risus eget, facilisis iaculis ex. Suspendisse sagittis sed turpis nec tincidunt. Suspendisse ac venenatis nibh. Pellentesque non maximus lacus, in commodo sapien. Nulla facilisi. Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis volutpat massa dolor id purus. Suspendisse et lobortis dui. Maecenas pretium blandit ex id lobortis. Vestibulum eget sapien vitae nibh porttitor bibendum sed eget nibh.
+Naturally shaped black wooden beads separated by dark gray metal tubes.
