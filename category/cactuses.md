@@ -1,9 +1,10 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: bracelet
+title: Bracelet
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 6
-layout: category
+
 ---
