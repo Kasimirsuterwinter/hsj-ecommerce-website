@@ -2,8 +2,8 @@
   "title": "A great holiday gift for loved ones",
   "subtitle": "from $58.00",
   "image": {
-    "optimized": "images/promo.webp",
-    "fallback": "images/promo.jpg"
+    "optimized": "",
+    "fallback": "/images/promo.jpg"
   },
   "cta": {
     "text": "Discover",
