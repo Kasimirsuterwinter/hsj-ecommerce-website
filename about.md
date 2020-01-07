@@ -22,7 +22,7 @@ bulletpoints:
     across the Hudson River. '
   image:
     optimized: ''
-    fallback: "/images/Olana,_August_2015.jpg"
+    fallback: "/images/external-content.duckduckgo.com-1.jpg"
 layout: about
 menu:
   main:
