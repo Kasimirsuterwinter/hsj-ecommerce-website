@@ -22,7 +22,6 @@ category: bracelet
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
 # White Quartz Bracelet
