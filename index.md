@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Hand Made Natural Jewelry
+# Hand Made Natural Jewelry!
