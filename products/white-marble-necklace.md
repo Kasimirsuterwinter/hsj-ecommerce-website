@@ -1,6 +1,6 @@
 ---
 id: "1"
-title: White Marble Necklace
+title: White Marble Necklace 2
 description: Slender white marble beads, spaced out with dark grey metal tubes.
 price: "95"
 images:
@@ -22,7 +22,6 @@ category: earring
 featured: true
 section: Store
 layout: product
-published: false
 
 ---
 # White Marble Necklace
