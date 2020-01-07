@@ -2,7 +2,7 @@
 id: "2"
 title: Red Coral Necklace
 description: Red coral beaded necklace with dark grey spacer beads.
-price: "95"
+price: "100"
 images:
   default:
     thumbnail:
