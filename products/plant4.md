@@ -7,10 +7,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/IBlack Wood Necklace_thumbnail.jpg"
+      fallback: "/images/Black_Wood_Necklace_Thumbnail.jpg"
     original:
       optimized: ''
-      fallback: "/images/Black Wood Necklace.jpg"
+      fallback: "/images/Black_Wood_Necklace.jpg"
   featured:
     thumbnail:
       optimized: ''
