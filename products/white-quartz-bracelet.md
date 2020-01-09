@@ -1,6 +1,6 @@
 ---
 id: "7"
-title: White Quartz Bracelet 2
+title: White Quartz Bracelet
 description: A bracelet of white quartz cubes separated by silver tubes.
 price: "58"
 images:

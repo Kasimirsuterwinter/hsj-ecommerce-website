@@ -1,6 +1,6 @@
 ---
 title: About
-headline: Helen Suter
+headline: Helen Suter Jewelry
 introduction: Born in Bern, Switzerland, Helen Suter was raised in Peru, Switzerland
   and South Africa. After attending Michaelis School of Fine Art at the University
   of Cape Town, where she earned an Advanced Diploma and MFA in sculpture summa cum
@@ -22,7 +22,7 @@ bulletpoints:
     across the Hudson River. '
   image:
     optimized: ''
-    fallback: "/images/Olana,_August_2015.jpg"
+    fallback: "/images/external-content.duckduckgo.com-1.jpg"
 layout: about
 menu:
   main:
