@@ -42,7 +42,7 @@ sections:
   - testimonials
 - type: directory
   path: products
-  label: Product
+  label: Products
   create: all
   match: "**/*"
   templates:
