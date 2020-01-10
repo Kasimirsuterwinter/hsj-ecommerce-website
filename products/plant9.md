@@ -1,7 +1,7 @@
 ---
 id: "9"
 title: Dark Blue Crystal Necklace
-description: Dark Blue crystal necklace with dark gray metal spacers.
+description: Dark Blue crystal necklace with dark gray patina metal spacers.
 price: "95"
 images:
   default:
@@ -26,4 +26,4 @@ layout: product
 ---
 # Dark Blue Crystal Necklace
 
-Dark Blue crystal necklace with dark gray metal spacers.
+Dark Blue crystal necklace with dark gray patina metal spacers.

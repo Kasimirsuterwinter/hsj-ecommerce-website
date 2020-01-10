@@ -1,7 +1,7 @@
 ---
 id: "6"
 title: Copper Quartz Necklace
-description: Orange Quartz necklace with copper tube spacer beads.
+description: Orange Quartz necklace with copper patina tube spacer beads..
 price: "95"
 images:
   default:
