@@ -5,8 +5,8 @@ introduction: A line of comfortable, modern jewelry designed and made in the Hud
   Valley by sculptor Helen Suter. Materials from nature are combined with 14/20 gold-filled,
   Sterling silver and various patina plated tubular components. Helen uses semi-precious
   healing stones, crystals, pearls, Czech cut glass, metal and wood beads. The elegant
-  and minimalist warm aesthetic of the bracelets, necklaces and rings is complemented
-  by ease of wear due to the use of nylon stretch cord. A majority of pieces, including
+  and minimalist aesthetic is complemented by the warmth of the natural materials
+  and ease of wear due to the use of nylon stretch cord. A majority of pieces, including
   earrings, are one of a kind. Pure eye candy for work and play!
 bulletpoints:
 - title: Natural Materials
