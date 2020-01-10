@@ -1,8 +1,8 @@
 ---
 id: "7"
-title: White Quartz Bracelet
-description: A bracelet of white quartz cubes separated by silver tubes.
-price: "58"
+title: Bracelet
+description: A bracelet of white .... separated by silver tubes.
+price: xx
 images:
   default:
     thumbnail:
@@ -24,6 +24,6 @@ section: Store
 layout: product
 
 ---
-# White Quartz Bracelet
+# Bracelet
 
 A bracelet of white quartz cubes separated by silver tubes.
