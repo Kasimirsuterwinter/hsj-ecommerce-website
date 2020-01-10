@@ -1,8 +1,8 @@
 ---
 id: "2"
 title: Red Coral Necklace
-description: Red coral beaded necklace with dark grey spacer beads.
-price: "100"
+description: Red coral necklace with dark grey patina spacer beads.
+price: "95"
 images:
   default:
     thumbnail:
@@ -18,12 +18,12 @@ images:
     original:
       optimized: ''
       fallback: "/images/Red Coral Necklace.jpg"
-category: ring
-featured: true
+category: necklace
+featured: false
 section: Store
 layout: product
 
 ---
 # Red Coral Necklace
 
-Red coral beaded necklace with dark grey spacer beads.
+Red coral beaded necklace with dark grey patina spacer beads.
