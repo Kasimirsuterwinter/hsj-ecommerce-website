@@ -10,9 +10,10 @@ introduction: A line of comfortable, modern jewelry designed and made in the Hud
   earrings, are one of a kind. Pure eye candy for work and play!
 bulletpoints:
 - title: Natural Materials
-  description: 'All of my jewelry is created using precious and semiprecious beads
-    and metals. I look for the unusual yet natural in all of my compositions. Stemming
-    from my respect for the beauty of the natural world. '
+  description: My jewelry is created using beads made from natural semiprecious stones,
+    wood, metals, glass and things from the ocean. I look for the unusual yet natural
+    in all of my compositions. Stemming from my respect for the beauty of the natural
+    world.
   image:
     optimized: ''
     fallback: "/images/external-content.duckduckgo.com.jpg"
