@@ -1,8 +1,7 @@
 ---
---- 
+---
 
 {% assign palette = site.palettes[site.palette].sass %}
-
 
 $color_default: {{ palette.default }};
 $color_light: {{ palette.light }};
@@ -14,9 +13,6 @@ $color_active_medium: {{ palette.active_medium }};
 $color_active_dark: {{ palette.active_dark }};
 $color_dark_grey: {{ palette.dark_grey }};
 $color_light_grey: {{ palette.light_grey }};
-
-$hero_overlay_1: {{ palette.overlay_color1 }};
-$hero_overlay_2: {{ palette.overlay_color2 }};
 
 $background_images_primary: url({{ palette.bg_image_primary_fallback }});
 $background_images_primary_opt: url({{ palette.bg_image_primary_optimized }});
@@ -38,8 +34,8 @@ $font_size_medium: 24px;
 $font_size_regular: 20px;
 $font_size_small: 16px;
 
-$font_family_primairy: 'Muli Light', sans-serif;
-$font_family_secondary: 'Muli Light', sans-serif;
+$font_family_primairy: 'Open Sans', sans-serif;
+$font_family_secondary: 'Lato', sans-serif;
 
 * {
     box-sizing: border-box;
