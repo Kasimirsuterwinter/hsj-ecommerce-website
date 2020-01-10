@@ -5,6 +5,10 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5da09ea2967ea4001ae964bf/webhook/forestry
 sections:
 - type: document
+  path: _config.yaml
+  label: Site Configuration
+  match: "**/*"
+- type: document
   path: index.md
   label: Home
   templates:
