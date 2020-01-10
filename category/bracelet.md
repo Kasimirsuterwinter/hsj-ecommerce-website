@@ -1,5 +1,5 @@
 ---
-slug: bracelet
+slug: bracelets
 title: Bracelets
 section: Store
 layout: category
