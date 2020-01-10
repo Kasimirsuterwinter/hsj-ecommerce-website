@@ -2,7 +2,7 @@
 id: "3"
 title: Aquamarine Agate Necklace
 description: Necklace with elongated blue agate and dark gray patina spacer beads.
-price: "70"
+price: "95"
 images:
   default:
     thumbnail:
