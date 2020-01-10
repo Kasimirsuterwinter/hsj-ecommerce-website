@@ -1,5 +1,5 @@
 ---
-slug: earring
+slug: earrings
 title: Earrings
 section: Store
 layout: category
