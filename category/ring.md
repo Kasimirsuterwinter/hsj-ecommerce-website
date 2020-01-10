@@ -1,9 +1,10 @@
 ---
-slug: ring
-title: Ring
+slug: rings
+title: Rings
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 5
-layout: category
+
 ---

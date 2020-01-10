@@ -5,28 +5,10 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5da09ea2967ea4001ae964bf/webhook/forestry
 sections:
 - type: document
-  path: _config.yml
-  label: Global site config
-  templates:
-  - config
-- type: document
   path: index.md
   label: Home
   templates:
   - index
-- type: directory
-  path: ''
-  label: Page
-  create: all
-  match: "**/*.md"
-  exclude: "{README.md,LICENSE.md,index.md,store.md,faq.md,about.md}"
-  templates:
-  - page
-- type: document
-  path: store.md
-  label: Store
-  templates:
-  - store
 - type: document
   path: faq.md
   label: FAQ
@@ -61,11 +43,6 @@ sections:
   match: "**/*"
   templates:
   - products
-- type: document
-  path: _data/menus.yml
-  label: Site Menus
-  templates:
-  - site_menus
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''

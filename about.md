@@ -1,12 +1,13 @@
 ---
 title: About
 headline: Helen Suter Jewelry
-introduction: Born in Bern, Switzerland, Helen Suter was raised in Peru, Switzerland
-  and South Africa. After attending Michaelis School of Fine Art at the University
-  of Cape Town, where she earned an Advanced Diploma and MFA in sculpture summa cum
-  laude, she re-located to NYC. Working in fashion, she started a belt business which
-  led to opening her first art studios. In 2001, she moved her family to a farm in
-  the rural Hudson Valley where she raised her two sons.
+introduction: A line of comfortable, modern jewelry designed and made in the Hudson
+  Valley by sculptor Helen Suter. Materials from nature are combined with 14/20 gold-filled,
+  Sterling silver and various patina plated tubular components. Helen uses semi-precious
+  healing stones, crystals, pearls, Czech cut glass, metal and wood beads. The elegant
+  and minimalist warm aesthetic of the bracelets, necklaces and rings is complemented
+  by ease of wear due to the use of nylon stretch cord. A majority of pieces, including
+  earrings, are one of a kind. Pure eye candy for work and play!
 bulletpoints:
 - title: Natural Materials
   description: 'All of my jewelry is created using precious and semiprecious beads

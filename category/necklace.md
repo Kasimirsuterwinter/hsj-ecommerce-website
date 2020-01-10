@@ -1,6 +1,6 @@
 ---
-slug: necklace
-title: Necklace
+slug: necklaces
+title: Necklaces
 section: Store
 layout: category
 menu:
