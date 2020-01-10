@@ -25,8 +25,8 @@ palettes:
       active_dark: '#9d7d00'
       dark_grey: '#273132'
       light_grey: '#6B797A'
-      overlay_color1: rgb(#FFE300, 0.26)
-      overlay_color2: rgb(#F4C302, 0.3)
+      overlay_color1: rgba(#ffe300, 0.29)
+      overlay_color2: rgba(#F4C302, 0.3)
       promo_background: '#de206182'
       bg_image_primary_optimized: /images/header.webp
       bg_image_primary_fallback: /images/header.jpg
