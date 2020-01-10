@@ -98,6 +98,7 @@ fields:
   config:
     required: true
 pages:
+- products/black-wood-necklace.md
 - products/plant2.md
 - products/plant3.md
 - products/plant4.md
