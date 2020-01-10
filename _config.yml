@@ -27,7 +27,7 @@ palettes:
       light_grey: '#6B797A'
       overlay_color1: rgb(#FFE300, 0.26)
       overlay_color2: rgb(#F4C302, 0.3)
-      promo_background: '#de2061'
+      promo_background: '#de206182'
       bg_image_primary_optimized: /images/header.webp
       bg_image_primary_fallback: /images/header.jpg
       bg_image_secondary_optimized: /images/leaf-light-grey.svg
