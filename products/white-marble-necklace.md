@@ -1,7 +1,8 @@
 ---
 id: "1"
 title: 'White Marble Necklace '
-description: Slender white Howlite beads, spaced out with dark grey patina metal tubes.
+description: Slender cut white Howlite beads, spaced out with dark grey patina metal
+  tubes.
 price: "95"
 images:
   default:
