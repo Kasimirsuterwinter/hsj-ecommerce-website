@@ -20,10 +20,10 @@ bulletpoints:
     optimized: ''
     fallback: "/images/external-content.duckduckgo.com.jpg"
 - title: Made in the Hudson Valley
-  description: 'After living across the world, I have found myself here in the beautiful
-    Hudson Valley. I take great inspiration from the local artistic history, especially
-    the famous American painter Fredrick Church who built his home Olana, with views
-    across the Hudson River. '
+  description: 'After living in a number of interesting places in the world, I settled
+    in the beautiful Hudson Valley. I take great inspiration from the local artistic
+    history, especially the well-known 19th century American painter, Fredrick Edwin
+    Church, who created his home Olana, and painted the views across the Hudson River. '
   image:
     optimized: ''
     fallback: "/images/external-content.duckduckgo.com-1.jpg"
