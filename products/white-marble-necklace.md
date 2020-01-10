@@ -26,4 +26,4 @@ layout: product
 ---
 # White Marble Necklace
 
-Slender white Howlite beads, spaced out with dark grey metal tubes.
+Slender white Howlite beads, spaced out with dark grey patina metal tubes.
