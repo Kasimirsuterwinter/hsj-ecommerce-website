@@ -1,7 +1,7 @@
 ---
 id: "3"
-title: Blue Quartz Necklace
-description: Choker necklace with skinny long blue quartz and dark gray spacer beads.
+title: Aquamarine Agate Necklace
+description: Necklace with elongated blue agate and dark gray patina spacer beads.
 price: "70"
 images:
   default:
@@ -24,6 +24,6 @@ section: Store
 layout: product
 
 ---
-# Blue Quartz Necklace
+# Blue Agate Necklace
 
-Choker necklace with skinny long blue quartz and dark gray spacer beads.
+Necklace with elongated blue agate and dark gray patina spacer beads.
