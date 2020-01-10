@@ -21,6 +21,8 @@ sections:
   label: About
   templates:
   - about
+- type: heading
+  label: Content
 - type: directory
   path: category
   label: Categories
