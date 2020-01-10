@@ -1,9 +1,10 @@
 ---
 slug: earring
-title: Earring
+title: Earrings
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 2
-layout: category
+
 ---
