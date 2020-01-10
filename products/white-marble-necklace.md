@@ -1,7 +1,7 @@
 ---
 id: "1"
 title: White Marble Necklace 2
-description: Slender white marble beads, spaced out with dark grey metal tubes.
+description: Slender white Howlite beads, spaced out with dark grey patina metal tubes.
 price: "95"
 images:
   default:
@@ -18,7 +18,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/White Marble Necklace.jpg"
-category: earring
+category: necklace
 featured: true
 section: Store
 layout: product
@@ -26,4 +26,4 @@ layout: product
 ---
 # White Marble Necklace
 
-Slender white marble beads, spaced out with dark grey metal tubes.
+Slender white Howlite beads, spaced out with dark grey metal tubes.
