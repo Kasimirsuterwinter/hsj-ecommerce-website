@@ -1,7 +1,8 @@
 ---
 id: "4"
 title: Black Wood Necklace
-description: " Naturally shaped black wooden beads separated by dark gray metal tubes. "
+description: " Naturally shaped black wooden beads separated by dark gray patina metal
+  tubes. "
 price: "95"
 images:
   default:
@@ -26,4 +27,4 @@ layout: product
 ---
 # Black Wood Necklace
 
-Naturally shaped black wooden beads separated by dark gray metal tubes.
+Naturally shaped black wooden beads separated by dark gray patina metal tubes.
