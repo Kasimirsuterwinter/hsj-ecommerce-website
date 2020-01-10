@@ -25,7 +25,7 @@ bulletpoints:
     history, especially the well-known 19th century American painter, Fredrick Edwin
     Church, who created his home Olana atop a hill and painted the views across the
     Hudson River. New artistic venues are appearing, enhancing the nature experience,
-    such as The School in Kinderhook. Many artists and makers produce locally. '
+    such as The School in Kinderhook. Many artists and makers produce locally.  '
   image:
     optimized: ''
     fallback: "/images/external-content.duckduckgo.com-1.jpg"
