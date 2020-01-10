@@ -1,7 +1,7 @@
 ---
 id: "8"
 title: Rainbow Crystal Necklace
-description: Glistening iridized quartz crystals with dark grey patina metal beads.
+description: Glistening irized quartz crystals with dark grey patina metal beads.
 price: "95"
 images:
   default:
@@ -26,4 +26,4 @@ layout: product
 ---
 # Rainbow Crystal Necklace
 
-Glistening iridized quartz crystals with dark grey metal beads.
+Glistening irized quartz crystals with dark grey metal beads.
