@@ -2,5 +2,6 @@
 title: Home
 isHome: true
 layout: index
+
 ---
-# Local Made Natural Jewelry!
+# Hudson Valley Natural Jewelry!
