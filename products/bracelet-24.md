@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: bracelets
+category: bracelets, gold
 featured: false
 section: Store
 
