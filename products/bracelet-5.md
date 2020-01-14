@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: bracelet 5
+title: bracelet 6
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0149.jpg"
+      fallback: "/images/Thumbnail-0135.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0149.jpg"
+      fallback: "/images/IMG_0135.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -22,6 +22,5 @@ images:
 category: bracelet
 featured: false
 section: Store
-published: false
 
 ---
