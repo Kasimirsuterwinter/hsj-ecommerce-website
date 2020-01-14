@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: bracelet 17
+title: bracelet 18
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-2046.jpg"
+      fallback: "/images/Thumbnail-2036.jpg"
     original:
       optimized: ''
-      fallback: "/images/_DSC2046.jpg"
+      fallback: "/images/_DSC2036.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -22,6 +22,5 @@ images:
 category: bracelet
 featured: false
 section: Store
-published: false
 
 ---
