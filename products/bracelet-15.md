@@ -1,6 +1,6 @@
 ---
 layout: product
-id: B016
+id: BSS016
 title: Sterling Silver Marble Bracelet
 description: Rectangular Howlite with Sterling silver curved spacer beads.
 price: '58.00'
