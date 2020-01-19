@@ -1,9 +1,9 @@
 ---
 layout: product
-id: ''
-title: bracelet 16
-description: ''
-price: ''
+id: B016
+title: Geometric Marble Bracelet
+description: Rectangular Howlite with Sterling silver curved spacer beads.
+price: '58.00'
 images:
   default:
     thumbnail:
