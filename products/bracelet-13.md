@@ -1,7 +1,7 @@
 ---
 layout: product
 id: B014
-title: Faced Agate Bracelet
+title: Facet-cut Agate Bracelet
 description: Grey-blue faceted Agate and copper plated spacer beads.
 price: '38.00'
 images:
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: ''
+material: copper
 featured: false
 section: Store
 
