@@ -1,5 +1,5 @@
 ---
-id: "6"
+id: NCP06
 title: Copper Quartz Necklace
 description: Orange Quartz necklace with copper patina tube spacer beads..
 price: "95"
@@ -22,6 +22,7 @@ category: necklaces
 featured: false
 section: Store
 layout: product
+material: copper
 
 ---
 # Copper Quartz Necklace
