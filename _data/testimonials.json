@@ -1,18 +1,25 @@
 {
-    "data": [
-        {
-            "text": "I didn't know the Snipcart guys were into herbs as well! How beautiful is that Planty theme. I'm going to launch a killer JAMstack e-commerce store using this for sure.",
-            "author": {
-                "name": "John Dope",
-                "location": "Colorado, USA"
-            }
-        },
-        {
-            "text": "Well I'll be d*mned. These plants really ARE greener than any of my recruits.",
-            "author": {
-                "name": "Major Payne",
-                "location": "VA, USA"
-            }
-        }
-    ]
+  "data": [
+    {
+      "text": " “I’ve had the most fun with Helen collaborating on a design for some special earrings which she created for me using my input.  I happily own several beautiful pieces—a two strand bracelet I wear everyday—expandable with lovely blue and red stones.  The designs are varied ranging from delicate to bold depending on one’s mood which is also what makes this jewelry unique and cool!”  ",
+      "author": {
+        "name": "Barb C.",
+        "location": "Tivoli, NY"
+      }
+    },
+    {
+      "text": "I didn't know the Snipcart guys were into herbs as well! How beautiful is that Planty theme. I'm going to launch a killer JAMstack e-commerce store using this for sure.",
+      "author": {
+        "name": "John Dope",
+        "location": "Colorado, USA"
+      }
+    },
+    {
+      "text": "Well I'll be d*mned. These plants really ARE greener than any of my recruits.",
+      "author": {
+        "name": "Major Payne",
+        "location": "VA, USA"
+      }
+    }
+  ]
 }
