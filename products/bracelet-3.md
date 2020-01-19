@@ -1,9 +1,9 @@
 ---
 layout: product
-id: ''
-title: bracelet 4
-description: ''
-price: ''
+id: BCP04
+title: Iridescent Quartz Bracelet
+description: Irized Quartz crystals with copper-plated spacer beads.
+price: "36"
 images:
   default:
     thumbnail:
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: ''
+material: Copper
 featured: false
 section: Store
 
