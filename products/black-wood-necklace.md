@@ -1,5 +1,5 @@
 ---
-id: "4"
+id: NGP04
 title: Geometric Wood Necklace
 description: 'Black, gold and silver wooden beads separated by dark gray patina metal
   tubes. '
@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/IMG_6963.jpg"
-category: necklace
+category: necklaces
 material: ''
 featured: false
 section: Store
