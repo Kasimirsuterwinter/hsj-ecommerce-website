@@ -1,6 +1,6 @@
 ---
 layout: product
-id: 1
+id: "1"
 title: bracelet 1
 description: ''
 price: ''
@@ -11,7 +11,7 @@ images:
       fallback: "/images/Thumbnail-0131.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0131-1.jpg"
+      fallback: "/images/IMG_0131.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: bracelets
-material: ''
+category: bracelet
+material: copper
 featured: false
 section: Store
 
