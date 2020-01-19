@@ -27,5 +27,4 @@ fields:
     required: true
 pages:
 - material/gold.md
-- material/silver-1.md
 - material/silver.md
