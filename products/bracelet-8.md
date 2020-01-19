@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: bracelets
-material: ''
+category: bracelet
+material: copper
 featured: false
 section: Store
 
