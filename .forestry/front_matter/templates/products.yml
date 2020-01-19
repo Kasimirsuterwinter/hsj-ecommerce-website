@@ -73,10 +73,10 @@ fields:
     source:
       type: simple
     options:
-    - earring
-    - bracelet
-    - necklace
-    - ring
+    - rings
+    - necklaces
+    - bracelets
+    - earrings
 - type: select
   name: material
   label: Material
