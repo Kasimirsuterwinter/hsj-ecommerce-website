@@ -86,6 +86,7 @@ fields:
     options:
     - gold
     - copper
+    - silver
 - type: boolean
   name: featured
   label: Featured
