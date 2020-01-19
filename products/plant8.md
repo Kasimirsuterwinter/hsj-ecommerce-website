@@ -1,5 +1,5 @@
 ---
-id: "8"
+id: NGP08
 title: Rainbow Crystal Necklace
 description: Glistening irized quartz crystals with dark grey patina metal beads.
 price: "95"
@@ -22,6 +22,7 @@ category: necklaces
 featured: false
 section: Store
 layout: product
+material: ''
 
 ---
 # Rainbow Crystal Necklace

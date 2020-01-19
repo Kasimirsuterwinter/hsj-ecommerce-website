@@ -1,5 +1,5 @@
 ---
-id: "1"
+id: NGP 01
 title: 'White Marble Necklace '
 description: Slender cut white Howlite beads, spaced out with dark grey patina metal
   tubes.
@@ -23,6 +23,7 @@ category: necklaces
 featured: true
 section: Store
 layout: product
+material: ''
 
 ---
 # White Marble Necklace

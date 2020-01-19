@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: copper
+material: silver
 featured: false
 section: Store
 
