@@ -2,8 +2,8 @@
 layout: product
 id: ''
 title: bracelet 15
-description: ''
-price: ''
+description: Large, flat Agate beads with dark grey patina curved spacer beads.
+price: '42.00'
 images:
   default:
     thumbnail:
