@@ -20,6 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
+material: ''
 featured: false
 section: Store
 

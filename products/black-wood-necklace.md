@@ -20,6 +20,7 @@ images:
       optimized: ''
       fallback: "/images/IMG_6963.jpg"
 category: necklace
+material: ''
 featured: false
 section: Store
 layout: product

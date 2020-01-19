@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: 3
 title: bracelet 5
 description: ''
 price: ''
@@ -20,6 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
+material: copper
 featured: false
 section: Store
 

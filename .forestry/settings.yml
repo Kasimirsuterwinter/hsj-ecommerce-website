@@ -30,6 +30,13 @@ sections:
   match: "**/*"
   templates:
   - categories
+- type: directory
+  path: material
+  label: Material
+  create: all
+  match: "**/*"
+  templates:
+  - material
 - type: document
   path: _data/promotion.json
   label: Promotion

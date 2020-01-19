@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: 1
 title: bracelet 1
 description: ''
 price: ''
@@ -20,6 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
+material: ''
 featured: false
 section: Store
 

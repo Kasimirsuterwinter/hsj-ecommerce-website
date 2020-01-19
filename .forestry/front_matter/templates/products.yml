@@ -77,6 +77,15 @@ fields:
     - bracelet
     - necklace
     - ring
+- type: select
+  name: material
+  label: Material
+  config:
+    source:
+      type: simple
+    options:
+    - gold
+    - copper
 - type: boolean
   name: featured
   label: Featured

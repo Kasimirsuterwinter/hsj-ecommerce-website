@@ -40,10 +40,10 @@
   }
 
   &__logo {
-    width: 25%;
+    width: 30%;
   }
   &__logo-image {
-    height: 45px;
+    height: 40px;
   }
   &__total-items {
     @include smaller-than-tablet {

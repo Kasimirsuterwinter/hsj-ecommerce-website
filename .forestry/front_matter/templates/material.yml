@@ -1,0 +1,29 @@
+---
+label: Material
+hide_body: true
+fields:
+- type: text
+  name: slug
+  label: Slug
+- type: text
+  name: title
+  label: Title
+- type: select
+  name: section
+  label: Section
+  config:
+    source:
+      type: custom
+    options:
+    - Store
+    - About
+    - Home
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: material
+  config:
+    required: true
+pages:
+- material/gold.md

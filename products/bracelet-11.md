@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: 10
 title: bracelet 12
 description: ''
 price: ''
@@ -20,6 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
+material: copper
 featured: false
 section: Store
 
