@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelet
-material: ''
+material: silver
 featured: false
 section: Store
 
