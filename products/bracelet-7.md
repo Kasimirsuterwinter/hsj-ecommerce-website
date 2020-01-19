@@ -1,9 +1,9 @@
 ---
 layout: product
-id: ''
-title: bracelet 8
-description: ''
-price: ''
+id: BCP08
+title: Black Quartz Bracelet
+description: Natural Black Quartz nuggets and copper plated spacer beads.
+price: "36"
 images:
   default:
     thumbnail:
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: ''
+material: copper
 featured: false
 section: Store
 
