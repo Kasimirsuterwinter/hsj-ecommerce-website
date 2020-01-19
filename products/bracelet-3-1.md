@@ -1,9 +1,10 @@
 ---
 layout: product
-id: 3
+id: BCP05
 title: bracelet 5
-description: ''
-price: ''
+description: Gold color treated Quartz crystals with lustre Quartz accent bead and
+  copper-plated spacers.
+price: "36"
 images:
   default:
     thumbnail:
@@ -20,7 +21,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: copper
+material: Copper
 featured: false
 section: Store
 
