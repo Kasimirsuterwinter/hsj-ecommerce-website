@@ -3,7 +3,7 @@ layout: product
 id: B 015
 title: Purple Agate Bracelet
 description: Large, flat Agate beads with dark grey patina curved spacer beads.
-price: '42.00'
+price: '48.00'
 images:
   default:
     thumbnail:
