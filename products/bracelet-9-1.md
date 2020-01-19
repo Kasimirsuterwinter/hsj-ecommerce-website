@@ -11,7 +11,7 @@ images:
       fallback: "/images/Thumbnail-0097.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0097-1.jpg"
+      fallback: "/images/IMG_0097.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: bracelets
-material: ''
+category: bracelet
+material: copper
 featured: false
 section: Store
 
