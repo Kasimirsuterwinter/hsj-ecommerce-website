@@ -1,7 +1,7 @@
 ---
 layout: material
-slug: silver
-title: Silver
+slug: sterling-silver
+title: Sterling Silver
 section: Store
 menu:
   categories:

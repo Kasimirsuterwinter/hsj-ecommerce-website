@@ -84,9 +84,10 @@ fields:
     source:
       type: simple
     options:
-    - gold
-    - copper
-    - silver
+    - Gold
+    - Copper
+    - Sterlin Silver
+    - Grey Petina
 - type: boolean
   name: featured
   label: Featured
