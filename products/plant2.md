@@ -18,7 +18,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/Red Coral Necklace.jpg"
-category: necklace
+category: necklaces
 featured: false
 section: Store
 layout: product

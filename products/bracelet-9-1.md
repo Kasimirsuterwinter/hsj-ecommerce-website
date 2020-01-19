@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: bracelet
+category: bracelets
 material: copper
 featured: false
 section: Store

@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/White Marble Necklace.jpg"
-category: necklace
+category: necklaces
 featured: true
 section: Store
 layout: product
