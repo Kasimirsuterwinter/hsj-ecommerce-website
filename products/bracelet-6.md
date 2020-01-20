@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: Sterling Silver
+material: sterling-silver
 featured: false
 section: Store
 

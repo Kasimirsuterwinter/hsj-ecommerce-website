@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: ''
+material: grey-patina
 featured: false
 section: Store
 

@@ -83,12 +83,11 @@ fields:
     source:
       type: simple
     options:
-    - Gold
-    - Copper
-    - Sterling Silver
-    - Grey Patina
+    - gold
     - copper
-- type: boolean
+    - sterling-silver
+    - grey-patina
+]- type: boolean
   name: featured
   label: Featured
 - type: select
