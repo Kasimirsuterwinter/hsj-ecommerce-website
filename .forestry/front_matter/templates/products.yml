@@ -87,7 +87,7 @@ fields:
     - copper
     - sterling-silver
     - grey-patina
-]- type: boolean
+- type: boolean
   name: featured
   label: Featured
 - type: select
