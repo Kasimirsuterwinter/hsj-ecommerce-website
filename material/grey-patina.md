@@ -1,6 +1,6 @@
 ---
-slug: grey-petina
-title: Grey Petina
+slug: grey-patina
+title: Grey Patina
 section: Store
 layout: material
 menu:

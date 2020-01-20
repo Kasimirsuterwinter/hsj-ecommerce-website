@@ -85,8 +85,8 @@ fields:
     options:
     - Gold
     - Copper
-    - Sterlin Silver
-    - Grey Petina
+    - Sterling Silver
+    - Grey Patina
 - type: boolean
   name: featured
   label: Featured
