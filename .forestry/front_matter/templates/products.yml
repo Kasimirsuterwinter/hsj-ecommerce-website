@@ -87,6 +87,7 @@ fields:
     - Copper
     - Sterling Silver
     - Grey Patina
+    - copper
 - type: boolean
   name: featured
   label: Featured
