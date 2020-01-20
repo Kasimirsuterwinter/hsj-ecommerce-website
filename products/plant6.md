@@ -22,7 +22,7 @@ category: necklaces
 featured: false
 section: Store
 layout: product
-material: copper
+material: Copper
 
 ---
 # Copper Quartz Necklace
