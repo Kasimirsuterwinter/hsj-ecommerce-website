@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Earring 025
+title: Earring 026
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0194.jpg"
+      fallback: "/images/Thumbnail-0198.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0194.jpg"
+      fallback: "/images/IMG_0198.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -23,6 +23,5 @@ category: earrings
 material: grey-patina
 featured: false
 section: Store
-published: false
 
 ---
