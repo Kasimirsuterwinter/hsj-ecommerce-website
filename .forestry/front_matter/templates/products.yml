@@ -66,16 +66,6 @@ fields:
       - type: file
         name: fallback
         label: Fallback (JPG or PNG)
-- name: material_option
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-    source:
-      type: pages
-  label: Material Option
-  description: Material option in shopping cart.
 - type: select
   name: category
   label: Category
