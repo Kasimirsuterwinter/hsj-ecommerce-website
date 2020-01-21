@@ -25,11 +25,3 @@ featured: false
 section: Store
 
 ---
-![]({{ page.fallback | relative_url }})Default Thumbnail
-
-<img src="{{ page.images.default.thumbnail.fallback | relative_url }}">
-
-![alt text](Isolated.png "Title")
-
-Default Original
-<img src="{{ page.images.default.original.fallback | relative_url }}">
