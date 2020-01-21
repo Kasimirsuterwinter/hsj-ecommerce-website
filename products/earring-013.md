@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Earring 013
+title: Earring 014
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0211.jpg"
+      fallback: "/images/Thumbnail-0223.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0211.jpg"
+      fallback: "/images/IMG_0223.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -23,6 +23,5 @@ category: earrings
 material: grey-patina
 featured: false
 section: ''
-published: false
 
 ---
