@@ -7,9 +7,6 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: _config.yml
-  label: Theme Settings
-- type: document
   path: index.md
   label: Home
   templates:
@@ -50,6 +47,11 @@ sections:
   label: Testimonials
   templates:
   - testimonials
+- type: heading
+  label: Settings
+- type: document
+  path: _config.yml
+  label: Theme Settings
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
