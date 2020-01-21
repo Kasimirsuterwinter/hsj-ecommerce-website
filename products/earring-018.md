@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Earring 018
+title: Earring 019
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0261.jpg"
+      fallback: "/images/Thumbnail-0256.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0261.jpg"
+      fallback: "/images/IMG_0256.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -23,6 +23,5 @@ category: earrings
 material: gold
 featured: false
 section: Store
-published: false
 
 ---
