@@ -27,6 +27,6 @@ material_option:
 - 'Patina Grey | '
 - 'Copper [+5.00] | '
 - Silver [+20.00] |
-- Gold [+30.00] |
+- Gold [+30.00]
 
 ---
