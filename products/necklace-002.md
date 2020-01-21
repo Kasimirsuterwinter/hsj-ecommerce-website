@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Necklace 002
+title: Necklace 003
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0034.jpg"
+      fallback: "/images/Thumbnail-0014.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0034.jpg"
+      fallback: "/images/IMG_0014.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,9 +20,8 @@ images:
       optimized: ''
       fallback: ''
 category: necklaces
-material: grey-patina
+material: ''
 featured: false
 section: Store
-published: false
 
 ---
