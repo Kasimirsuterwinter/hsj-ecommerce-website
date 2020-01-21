@@ -36,35 +36,35 @@ fields:
   - type: color
     name: light_grey
     label: Light grey
-  - type: image
+  - type: text
     name: bg_image_primary_optimized
     label: Primary Optimized Backround Image
     description: Primary Optimized Backround Image (WEBP or similar)
-  - type: image
+  - type: text
     name: bg_image_primary_fallback
     label: Primary Fallback Backround Image
     description: Primary Fallback Backround Image (JPG or PNG)
-  - type: image
+  - type: text
     name: bg_image_secondary_optimized
     label: Secondary Optimized Backround Image
     description: Secondary Optimized Backround Image (WEBP or similar)
-  - type: image
+  - type: text
     name: bg_image_secondary_fallback
     label: Secondary Fallback Backround Image
     description: Secondary Fallback Backround Image (JPG or PNG)
-  - type: image
+  - type: text
     name: bg_image_product_optimized
     label: Product Optimized Backround Image
     description: Product Optimized Backround Image (WEBP or similar)
-  - type: image
+  - type: text
     name: bg_image_product_fallback
     label: Product Fallback Backround Image
     description: Product Fallback Backround Image (JPG or PNG)
-  - type: image
+  - type: text
     name: bg_image_cart_optimized
     label: Cart Optimized Backround Image
     description: Cart Optimized Backround Image (WEBP or similar)
-  - type: image
+  - type: text
     name: bg_image_cart_fallback
     label: Cart Fallback Backround Image
     description: Cart Fallback Backround Image (JPG or PNG)
