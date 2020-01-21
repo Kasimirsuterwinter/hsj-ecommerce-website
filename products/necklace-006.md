@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Necklace 006
+title: Necklace 007
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail_9937.jpg"
+      fallback: "/images/Thumbnail-0002.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_9937.jpg"
+      fallback: "/images/IMG_0002.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,9 +20,8 @@ images:
       optimized: ''
       fallback: ''
 category: necklaces
-material: grey-patina
+material: copper
 featured: false
 section: Store
-published: false
 
 ---
