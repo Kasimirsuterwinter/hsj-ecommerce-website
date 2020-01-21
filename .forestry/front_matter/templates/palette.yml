@@ -68,3 +68,9 @@ fields:
     name: bg_image_cart_fallback
     label: Cart Fallback Backround Image
     description: Cart Fallback Backround Image (JPG or PNG)
+  - name: default1
+    type: color
+    label: Default1
+    config:
+      required: false
+      color_format: Hex
