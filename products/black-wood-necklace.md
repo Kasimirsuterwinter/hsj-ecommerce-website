@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/promo-old.webp"
+      fallback: "/images/Black_Wood_Necklace_Thumbnail.jpg"
     original:
       optimized: ''
       fallback: "/images/Black_Wood_Necklace.jpg"
