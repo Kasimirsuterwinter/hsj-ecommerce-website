@@ -7,11 +7,9 @@
     data-item-image="{{ product_page.images.default.thumbnail.fallback }}"
     data-item-description="{{ product_page.description }}"
     date-item-categories="{{ product_page.category }}"
-    data-item-id="{{ product_page.id }}">
-    {% if product_page.meterial_option %}
+    data-item-id="{{ product_page.id }}"
     data-item-custom1-name="Material Option"
     data-item-custom1-options="{{ product_page.material_option }}"
-    {% endif %}
     data-item-custom2-name="Gift"
     data-item-custom2-type="checkbox">
     <span class="button__icon">
