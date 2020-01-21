@@ -4,14 +4,9 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5da09ea2967ea4001ae964bf/webhook/forestry
 sections:
-- type: directory
-  path: products
-  label: Necklaces
-  create: all
-  match: "**/*"
-  exclude: 'category: earrings'
-  templates:
-  - products
+- type: document
+  path: _config.yaml
+  label: Theme Settings
 - type: heading
   label: Pages
 - type: document
@@ -55,13 +50,6 @@ sections:
   label: Testimonials
   templates:
   - testimonials
-- type: directory
-  path: products
-  label: Products
-  create: all
-  match: "**/*"
-  templates:
-  - products
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
