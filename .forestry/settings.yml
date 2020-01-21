@@ -4,20 +4,8 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5da09ea2967ea4001ae964bf/webhook/forestry
 sections:
-- type: directory
-  path: products
-  label: Products
-  create: all
-  match: "**/*"
-  templates:
-  - products
 - type: heading
   label: Pages
-- type: document
-  path: index.md
-  label: Home
-  templates:
-  - index
 - type: document
   path: faq.md
   label: FAQ
@@ -28,8 +16,11 @@ sections:
   label: About
   templates:
   - about
-- type: heading
-  label: Content
+- type: document
+  path: index.md
+  label: Home
+  templates:
+  - index
 - type: directory
   path: category
   label: Categories
@@ -37,6 +28,8 @@ sections:
   match: "**/*"
   templates:
   - categories
+- type: heading
+  label: Content
 - type: directory
   path: material
   label: Material
@@ -54,6 +47,13 @@ sections:
   label: Testimonials
   templates:
   - testimonials
+- type: directory
+  path: products
+  label: Products
+  create: all
+  match: "**/*"
+  templates:
+  - products
 - type: heading
   label: Settings
 - type: document
