@@ -36,15 +36,17 @@ fields:
   - type: color
     name: light_grey
     label: Light grey
+    config:
+    color_format: Hex
   - type: file
     name: bg_image_primary_optimized
     label: Primary Optimized Backround Image
     description: Primary Optimized Backround Image (WEBP or similar)
-  - type: text
+  - type: file
     name: bg_image_primary_fallback
     label: Primary Fallback Backround Image
     description: Primary Fallback Backround Image (JPG or PNG)
-  - type: text
+  - type: file
     name: bg_image_secondary_optimized
     label: Secondary Optimized Backround Image
     description: Secondary Optimized Backround Image (WEBP or similar)
@@ -68,6 +70,3 @@ fields:
     name: bg_image_cart_fallback
     label: Cart Fallback Backround Image
     description: Cart Fallback Backround Image (JPG or PNG)
-    config:
-      required: false
-      color_format: Hex
