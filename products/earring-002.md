@@ -22,6 +22,6 @@ images:
 category: earrings
 material: gold
 featured: false
-section: ''
+section: Store
 
 ---
