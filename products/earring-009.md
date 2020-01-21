@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Earring 009
+title: Earring 010
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0192.jpg"
+      fallback: "/images/Thumbnail-0251.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0192.jpg"
+      fallback: "/images/IMG_0251.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,9 +20,8 @@ images:
       optimized: ''
       fallback: ''
 category: earrings
-material: grey-patina
+material: gold
 featured: false
 section: ''
-published: false
 
 ---
