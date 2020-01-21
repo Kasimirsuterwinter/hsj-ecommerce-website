@@ -9,34 +9,53 @@ fields:
   - type: color
     name: default
     label: Default light
+    config:
+      color_format: Hex
   - type: color
     name: light
     label: Light
+    config:
+      color_format: Hex
   - type: color
     name: medium
     label: Medium
+    config:
+      color_format: Hex
   - type: color
     name: dark
     label: Dark
+    config:
+      color_format: Hex
   - type: color
     name: active
     label: Active
+    config:
+      color_format: Hex
   - type: color
     name: active_light
     label: Active light
+    config:
+      color_format: Hex
   - type: color
     name: active_medium
     label: Active medium
+    config:
+      color_format: Hex
   - type: color
     name: active_dark
     label: Active dark
+    config:
+      color_format: Hex
   - type: color
     name: dark_grey
     label: Dark grey
+    config:
+      color_format: Hex
   - type: color
     name: light_grey
     label: Light grey
     config:
+      color_format: Hex
     color_format: Hex
   - type: file
     name: bg_image_primary_optimized
