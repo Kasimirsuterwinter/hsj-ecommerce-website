@@ -3,7 +3,7 @@ layout: product
 id: "1"
 title: bracelet 1
 description: ''
-price: ''
+price: "1"
 images:
   default:
     thumbnail:
@@ -23,5 +23,10 @@ category: bracelets
 material: copper
 featured: false
 section: Store
+material_option:
+- 'Patina Grey | '
+- 'Copper [+5.00] | '
+- Silver [+20.00] |
+- Gold [+30.00] |
 
 ---
