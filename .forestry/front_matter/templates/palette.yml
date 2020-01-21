@@ -6,37 +6,41 @@ fields:
   name: sass
   label: SASS
   fields:
-  - type: text
+  - type: color
+    name: default
+    label: Default Light
+    description: The background color of the element.
+  - type: color
     name: default
     label: Default light
-  - type: text
+  - type: color
     name: light
     label: Light
-  - type: text
+  - type: color
     name: medium
     label: Medium
-  - type: text
+  - type: color
     name: dark
     label: Dark
-  - type: text
+  - type: color
     name: active
     label: Active
-  - type: text
+  - type: color
     name: active_light
     label: Active light
-  - type: text
+  - type: color
     name: active_medium
     label: Active medium
-  - type: text
+  - type: color
     name: active_dark
     label: Active dark
-  - type: text
+  - type: color
     name: dark_grey
     label: Dark grey
-  - type: text
+  - type: color
     name: light_grey
     label: Light grey
-  - type: text
+  - type: file
     name: bg_image_primary_optimized
     label: Primary Optimized Backround Image
     description: Primary Optimized Backround Image (WEBP or similar)
@@ -48,29 +52,26 @@ fields:
     name: bg_image_secondary_optimized
     label: Secondary Optimized Backround Image
     description: Secondary Optimized Backround Image (WEBP or similar)
-  - type: text
+  - type: file
     name: bg_image_secondary_fallback
     label: Secondary Fallback Backround Image
     description: Secondary Fallback Backround Image (JPG or PNG)
-  - type: text
+  - type: file
     name: bg_image_product_optimized
     label: Product Optimized Backround Image
     description: Product Optimized Backround Image (WEBP or similar)
-  - type: text
+  - type: file
     name: bg_image_product_fallback
     label: Product Fallback Backround Image
     description: Product Fallback Backround Image (JPG or PNG)
-  - type: text
+  - type: file
     name: bg_image_cart_optimized
     label: Cart Optimized Backround Image
     description: Cart Optimized Backround Image (WEBP or similar)
-  - type: text
+  - type: file
     name: bg_image_cart_fallback
     label: Cart Fallback Backround Image
     description: Cart Fallback Backround Image (JPG or PNG)
-  - name: default1
-    type: color
-    label: Default1
     config:
       required: false
       color_format: Hex

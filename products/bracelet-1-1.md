@@ -25,3 +25,8 @@ featured: false
 section: Store
 
 ---
+Default Thumbnail
+<img src="{{ page.images.default.thumbnail.fallback | relative_url }}">
+
+Default Original
+<img src="{{ page.images.default.original.fallback | relative_url }}">
