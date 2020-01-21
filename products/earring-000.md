@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Earring 000
+title: Earring 001
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0205.jpg"
+      fallback: "/images/Thumbnail-0263.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0205.jpg"
+      fallback: "/images/IMG_0263.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,9 +20,8 @@ images:
       optimized: ''
       fallback: ''
 category: earrings
-material: sterling-silver
+material: gold
 featured: false
 section: ''
-published: false
 
 ---
