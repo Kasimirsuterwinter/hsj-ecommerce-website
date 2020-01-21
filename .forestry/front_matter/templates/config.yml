@@ -107,3 +107,5 @@ fields:
   label: Exclude
   description: Exclude directories and/or files from the conversion.
   hidden: true
+pages:
+- _config.yml
