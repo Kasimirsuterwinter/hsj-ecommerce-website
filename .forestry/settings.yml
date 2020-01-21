@@ -51,7 +51,7 @@ sections:
   label: Settings
 - type: document
   path: _config.yml
-  label: Theme Settings
+  label: 'Theme '
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
