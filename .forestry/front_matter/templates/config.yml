@@ -54,13 +54,13 @@ fields:
   label: Color Palette
   config:
     source:
-      type: custom
+      type: simple
     options:
     - default
 - type: field_group
   name: palettes
   label: Palettes
-  hidden: true
+  hidden: false
   fields:
   - type: field_group
     name: default
