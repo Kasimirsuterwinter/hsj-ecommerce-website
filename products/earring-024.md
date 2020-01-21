@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Earring 024
+title: Earring 025
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0235.jpg"
+      fallback: "/images/Thumbnail-0194.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0235.jpg"
+      fallback: "/images/IMG_0194.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,9 +20,8 @@ images:
       optimized: ''
       fallback: ''
 category: earrings
-material: sterling-silver
+material: grey-patina
 featured: false
 section: Store
-published: false
 
 ---
