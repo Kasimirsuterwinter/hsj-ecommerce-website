@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Necklace 004
+title: Necklace 005
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0006.jpg"
+      fallback: "/images/Thumbnail-0106.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0006.jpg"
+      fallback: "/images/IMG_0106.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,9 +20,8 @@ images:
       optimized: ''
       fallback: ''
 category: necklaces
-material: sterling-silver
+material: grey-patina
 featured: false
 section: Store
-published: false
 
 ---
