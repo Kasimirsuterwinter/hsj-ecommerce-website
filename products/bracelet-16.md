@@ -11,7 +11,7 @@ images:
       fallback: "/images/Thumbnail-2046.jpg"
     original:
       optimized: ''
-      fallback: "/images/_DSC2046.jpg"
+      fallback: "/images/DSC2046.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: silver
+material: sterling-silver
 featured: false
 section: Store
 
