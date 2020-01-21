@@ -11,7 +11,7 @@ images:
       fallback: "/images/Thumbnail-2043.jpg"
     original:
       optimized: ''
-      fallback: "/images/_DSC2043.jpg"
+      fallback: "/images/DSC2043.jpg"
   featured:
     thumbnail:
       optimized: ''

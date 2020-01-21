@@ -11,7 +11,7 @@ images:
       fallback: "/images/Thumbnail-2023.jpg"
     original:
       optimized: ''
-      fallback: "/images/_DSC2023.jpg"
+      fallback: "/images/DSC2023.jpg"
   featured:
     thumbnail:
       optimized: ''
