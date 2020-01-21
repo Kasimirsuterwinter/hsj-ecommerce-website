@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0205.jpg"
     original:
       optimized: ''
       fallback: "/images/IMG_0205.jpg"
@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
-material: ''
+category: earrings
+material: sterling-silver
 featured: false
 section: ''
 
