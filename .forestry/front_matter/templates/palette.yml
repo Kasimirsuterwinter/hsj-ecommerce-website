@@ -7,10 +7,13 @@ fields:
   label: SASS
   fields:
   - type: color
+<<<<<<< HEAD
     name: default
     label: Default Light
     description: The background color of the element.
   - type: color
+=======
+>>>>>>> ce34904a2374eff8404d6d6412559bf3b4fedbcb
     name: default
     label: Default light
   - type: color
