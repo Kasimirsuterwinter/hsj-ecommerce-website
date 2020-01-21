@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Earring 023
+title: Earring 024
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0189.jpg"
+      fallback: "/images/Thumbnail-0235.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0189.jpg"
+      fallback: "/images/IMG_0235.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -23,6 +23,5 @@ category: earrings
 material: sterling-silver
 featured: false
 section: Store
-published: false
 
 ---
