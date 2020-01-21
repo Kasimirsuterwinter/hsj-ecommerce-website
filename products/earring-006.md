@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Earring 006
+title: Earring 007
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0201.jpg"
+      fallback: "/images/Thumbnail-0187.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0201.jpg"
+      fallback: "/images/IMG_0187.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -23,6 +23,5 @@ category: earrings
 material: sterling-silver
 featured: false
 section: ''
-published: false
 
 ---
