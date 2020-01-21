@@ -1,7 +1,7 @@
 ---
 layout: product
 id: ''
-title: Necklace 1
+title: Necklace 000
 description: ''
 price: ''
 images:
