@@ -5,9 +5,9 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5da09ea2967ea4001ae964bf/webhook/forestry
 sections:
 - type: document
-  path: _config.yaml
+  path: _config.yml
   label: Theme Settings
-  read_only: true
+  read_only: false
 - type: heading
   label: Pages
 - type: document
