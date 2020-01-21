@@ -22,6 +22,6 @@ images:
 category: earrings
 material: sterling-silver
 featured: false
-section: ''
+section: Store
 
 ---
