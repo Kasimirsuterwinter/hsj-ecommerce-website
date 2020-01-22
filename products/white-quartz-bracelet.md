@@ -22,6 +22,7 @@ category: bracelets
 featured: false
 section: Store
 layout: product
+material: sterling-silver
 
 ---
 # Bracelet
