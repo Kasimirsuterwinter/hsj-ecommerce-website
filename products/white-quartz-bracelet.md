@@ -7,7 +7,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/White Quartz Bracelet_thumbnail.jpg"
+      fallback: "/images/White Quartz Bracelet.jpg"
     original:
       optimized: ''
       fallback: "/images/White Quartz Bracelet.jpg"
