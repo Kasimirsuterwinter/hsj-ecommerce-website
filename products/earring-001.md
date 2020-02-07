@@ -1,7 +1,7 @@
 ---
 layout: product
 id: ESS001
-title: Earring 001
+title: ''
 description: ''
 price: ''
 images:
