@@ -1,7 +1,7 @@
 ---
 layout: product
-id: ''
-title: Necklace 003
+id: NGP002
+title: Necklace 002
 description: ''
 price: ''
 images:
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: necklaces
-material: ''
+material: grey-patina
 featured: false
 section: Store
 

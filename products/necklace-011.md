@@ -1,8 +1,8 @@
 ---
-id: "4"
+id: NGP011
 title: Black Wood Necklace
-description: " Naturally shaped black wooden beads separated by dark gray patina metal
-  tubes. "
+description: Naturally shaped black wooden beads separated by dark grey patina metal
+  tubes.
 price: "95"
 images:
   default:
@@ -26,6 +26,3 @@ layout: product
 material: grey-patina
 
 ---
-# Black Wood Necklace
-
-Naturally shaped black wooden beads separated by dark gray patina metal tubes.

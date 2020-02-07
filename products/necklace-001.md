@@ -1,17 +1,17 @@
 ---
 layout: product
-id: ''
-title: Necklace 002
+id: NGP001
+title: Necklace 001
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0034.jpg"
+      fallback: "/images/Thumbnail-0031.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0034.jpg"
+      fallback: "/images/IMG_0031.jpg"
   featured:
     thumbnail:
       optimized: ''

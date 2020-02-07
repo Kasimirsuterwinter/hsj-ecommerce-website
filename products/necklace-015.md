@@ -1,6 +1,6 @@
 ---
-id: NGP 01
-title: 'White Marble Necklace '
+id: NGP015
+title: 'White Marble Necklace'
 description: Slender cut white Howlite beads, spaced out with dark grey patina metal
   tubes.
 price: "95"
@@ -23,9 +23,6 @@ category: necklaces
 featured: true
 section: Store
 layout: product
-material: ''
+material: grey-patina
 
 ---
-# White Marble Necklace
-
-Slender white Howlite beads, spaced out with dark grey patina metal tubes.

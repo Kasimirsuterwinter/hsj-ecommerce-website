@@ -1,17 +1,17 @@
 ---
 layout: product
 id: ''
-title: Necklace 001
+title: Earring 028
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0031.jpg"
+      fallback: "/images/Thumbnail-0263.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0031.jpg"
+      fallback: "/images/IMG_0263.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -19,9 +19,9 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: necklaces
-material: grey-patina
+category: earrings
+material: gold
 featured: false
-section: Store
+section: ''
 
 ---

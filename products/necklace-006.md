@@ -1,7 +1,7 @@
 ---
 layout: product
-id: ''
-title: Necklace 007
+id: NCP006
+title: Necklace 006
 description: ''
 price: ''
 images:

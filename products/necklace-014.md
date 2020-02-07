@@ -1,7 +1,7 @@
 ---
-id: NGP09
+id: NGP014
 title: Dark Blue Crystal Necklace
-description: Dark Blue crystal necklace with dark gray patina metal spacers.
+description: Dark Blue crystal necklace with dark grey patina metal spacers.
 price: "95"
 images:
   default:
@@ -22,7 +22,7 @@ category: necklaces
 featured: true
 section: Store
 layout: product
-material: ''
+material: grey-patina
 
 ---
 # Dark Blue Crystal Necklace

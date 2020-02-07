@@ -1,7 +1,7 @@
 ---
 id: "7"
-title: Bracelet
-description: A bracelet of white .... separated by silver tubes.
+title: Bracelet 26
+description: A bracelet of white quartz cubes with sterling silver tubes.
 price: xx
 images:
   default:
@@ -26,6 +26,3 @@ material: sterling-silver
 published: false
 
 ---
-# Bracelet
-
-A bracelet of white quartz cubes separated by silver tubes.

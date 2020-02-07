@@ -1,7 +1,7 @@
 ---
 layout: product
 id: ''
-title: Earring 007
+title: Earring 006
 description: ''
 price: ''
 images:

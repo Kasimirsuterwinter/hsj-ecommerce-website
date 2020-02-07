@@ -1,7 +1,7 @@
 ---
 layout: product
-id: ''
-title: Necklace 004
+id: NSS003
+title: Necklace 003
 description: ''
 price: ''
 images:
