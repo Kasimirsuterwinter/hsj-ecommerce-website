@@ -1,6 +1,6 @@
 ---
 layout: product
-id: BCP09
+id: BCP009
 title: Rainbow Quartz Bracelet
 description: Lustrous rainbow quartz with gold accent bead and copper plated spacers.
 price: "36"

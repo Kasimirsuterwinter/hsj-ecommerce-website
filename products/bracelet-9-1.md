@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BSS011
 title: bracelet 11
 description: ''
 price: ''

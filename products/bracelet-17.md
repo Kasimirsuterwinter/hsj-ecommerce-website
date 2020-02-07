@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BCP018
 title: bracelet 18
 description: ''
 price: ''

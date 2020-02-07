@@ -1,6 +1,6 @@
 ---
 layout: product
-id: BCP03
+id: BCP003
 title: Metalic Grey Quartz Bracelet
 description: Metalic grey treated Quartz crystals with copper-plated spacer beads.
 price: "38"

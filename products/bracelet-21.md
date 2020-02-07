@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BCP022
 title: bracelet 22
 description: ''
 price: ''

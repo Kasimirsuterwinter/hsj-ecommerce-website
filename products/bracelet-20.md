@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BSS021
 title: bracelet 21
 description: ''
 price: ''

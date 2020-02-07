@@ -1,6 +1,6 @@
 ---
 layout: product
-id: 10
+id: BCP012
 title: bracelet 12
 description: ''
 price: ''

@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BCP019
 title: bracelet 19
 description: ''
 price: ''

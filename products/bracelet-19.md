@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BCP020
 title: bracelet 20
 description: ''
 price: ''

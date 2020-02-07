@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BSS013
 title: bracelet 13
 description: ''
 price: ''

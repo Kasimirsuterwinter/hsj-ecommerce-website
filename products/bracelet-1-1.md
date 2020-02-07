@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BSS001
 title: bracelet 2
 description: ''
 price: ''

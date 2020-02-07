@@ -1,6 +1,6 @@
 ---
 layout: product
-id: "1"
+id: BGP002
 title: bracelet 1
 description: ''
 price: "1"

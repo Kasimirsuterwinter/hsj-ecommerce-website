@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BGP010
 title: bracelet 10
 description: ''
 price: ''

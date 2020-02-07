@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: BSS017
 title: bracelet 17
 description: ''
 price: ''

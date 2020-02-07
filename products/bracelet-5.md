@@ -1,6 +1,6 @@
 ---
 layout: product
-id: BCP06
+id: BCP006
 title: Quartz Nugget Bracelet
 description: Raw clear Quartz nuggets and copper-plated spacer beads.
 price: "36"
