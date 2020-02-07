@@ -23,5 +23,6 @@ material: gold
 category: bracelets
 featured: false
 section: Store
+published: false
 
 ---
