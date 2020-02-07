@@ -1,9 +1,9 @@
 ---
 layout: product
 id: BGP001
-title: bracelet 1
+title: - Blue Quartz Crystal Bracelet
 description: ''
-price: "1"
+price: "36"
 images:
   default:
     thumbnail:

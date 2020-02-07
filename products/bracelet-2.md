@@ -1,9 +1,9 @@
 ---
 layout: product
 id: BSS002
-title: bracelet 2
-description: ''
-price: ''
+title: - Sterling Silver Clear Crystal Bracelet
+description: Clear quartz crystals with sterling silver spacer beads.
+price: '38'
 images:
   default:
     thumbnail:
