@@ -21,16 +21,15 @@ questions:
     use your email for contacting you, we will not sell your information or make it
     available to any 3rd parties. '
 - question: Rapid-fire questions
-  answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-    designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
-    Stackbit? <br /> A: We believe in Stackbit’s promise of opening up the JAMstack
-    to more developers. Plus, we trust these folks. [Read more about Stackbit](http://bit.ly/2YAvGix).
-    <br /><br /> Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-    small, bootstrapped team of eight human beings. Michael might be a robot, though.
-    <br /><br /> Q: Why is Snipcart based in Québec City? <br /> A: Have you been
-    here? It’s beaaautiful! <br /><br /> Q: What’s the meaning of life? <br /> A:
-    We’re not quite sure. But building useful products with people we love feels meaningful
-    enough.'
+  answer: 'Q: Will you create custom orders for weddings? <br /> A: Yes! just write
+    to jewelry(at)helensuter.studio with your inquiry and I will get back to you right
+    away.  <br /><br /> Q: Is your jewelry water proof? <br /> A: Yes it generally
+    is, however some pieces with wooden beads should not be excessively exposed to
+    water. <br /><br /> Q: Is the gold and silver solid? <br /> A: No. It is copper
+    with a thick platting of gold or silver. <br /><br /> Q: Can I carry your jewelry
+    in my shop? <br /> A: Yes! I can provide pieces on consiment or wholesale. Just
+    write me at jewelry(at)helensuter.studio  <br /><br /> Q: Are you an artist as
+    well? <br /> A: Yes, I am a trained sculpture. You can find my work at helensuter.studio'
 layout: faq
 menu:
   main:
