@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BCP004
-title: Iridescent Quartz Bracelet
-description: Irized Quartz crystals with copper-plated spacer beads.
-price: "36"
+id: BCP003
+title: Metalic Grey Quartz Bracelet
+description: Metalic grey treated Quartz crystals with copper-plated spacer beads.
+price: "38"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0166.jpg"
+      fallback: "/images/Thumbnail-0107.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0166.jpg"
+      fallback: "/images/IMG_0107.jpg"
   featured:
     thumbnail:
       optimized: ''

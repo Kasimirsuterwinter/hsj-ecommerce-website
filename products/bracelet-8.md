@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BCP009
-title: Rainbow Quartz Bracelet
-description: Lustrous rainbow quartz with gold accent bead and copper plated spacers.
+id: BCP008
+title: Black Quartz Bracelet
+description: Natural Black Quartz nuggets and copper plated spacer beads.
 price: "36"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0151.jpg"
+      fallback: "/images/Thumbnail-0127.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0151.jpg"
+      fallback: "/images/IMG_0127.jpg"
   featured:
     thumbnail:
       optimized: ''

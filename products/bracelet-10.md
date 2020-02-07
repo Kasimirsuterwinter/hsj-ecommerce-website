@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BSS011
-title: bracelet 11
+id: BGP010
+title: bracelet 10
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0097.jpg"
+      fallback: "/images/Thumbnail-0143.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0097.jpg"
+      fallback: "/images/IMG_0143.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: sterling-silver
+material: ''
 featured: false
 section: Store
 

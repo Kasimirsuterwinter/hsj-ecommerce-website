@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BCP019
-title: bracelet 19
+id: BCP018
+title: bracelet 18
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-2043.jpg"
+      fallback: "/images/Thumbnail-2036.jpg"
     original:
       optimized: ''
-      fallback: "/images/DSC2043.jpg"
+      fallback: "/images/DSC2036.jpg"
   featured:
     thumbnail:
       optimized: ''

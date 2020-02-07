@@ -1,18 +1,17 @@
 ---
 layout: product
-id: BCP005
-title: Gold Metalic Quartz Bracelet
-description: Metalic gold color treated Quartz crystals with lustre Quartz accent
-  bead and copper-plated spacers.
-price: "36"
+id: BCP023
+title: bracelet 23
+description: ''
+price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0149.jpg"
+      fallback: "/images/Thumbnail-2035.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0149.jpg"
+      fallback: "/images/DSC2035.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -21,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: copper
+material: ''
 featured: false
 section: Store
 

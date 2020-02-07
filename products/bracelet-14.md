@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BGP015
-title: Purple Agate Bracelet
-description: Large, flat Agate beads with dark grey patina curved spacer beads.
-price: '48.00'
+id: BCP014
+title: Facet-cut Agate Bracelet
+description: Grey-blue faceted Agate and copper plated spacer beads.
+price: '38.00'
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0119.jpg"
+      fallback: "/images/Thumbnail-0141.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0119.jpg"
+      fallback: "/images/IMG_0141.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: grey-patina
+material: copper
 featured: false
 section: Store
 

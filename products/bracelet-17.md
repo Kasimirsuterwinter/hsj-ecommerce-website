@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BCP018
-title: bracelet 18
+id: BSS017
+title: bracelet 17
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-2036.jpg"
+      fallback: "/images/Thumbnail-2046.jpg"
     original:
       optimized: ''
-      fallback: "/images/DSC2036.jpg"
+      fallback: "/images/DSC2046.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: ''
+material: sterling-silver
 featured: false
 section: Store
 

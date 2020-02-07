@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BGP010
-title: bracelet 10
-description: ''
-price: ''
+id: BCP009
+title: Rainbow Quartz Bracelet
+description: Lustrous rainbow quartz with gold accent bead and copper plated spacers.
+price: "36"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0143.jpg"
+      fallback: "/images/Thumbnail-0151.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0143.jpg"
+      fallback: "/images/IMG_0151.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: ''
+material: copper
 featured: false
 section: Store
 

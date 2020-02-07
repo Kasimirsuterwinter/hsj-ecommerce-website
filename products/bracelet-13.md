@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BCP014
-title: Facet-cut Agate Bracelet
-description: Grey-blue faceted Agate and copper plated spacer beads.
-price: '38.00'
+id: BSS013
+title: bracelet 13
+description: ''
+price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0141.jpg"
+      fallback: "/images/Thumbnail-0099.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0141.jpg"
+      fallback: "/images/IMG_0099.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: copper
+material: ''
 featured: false
 section: Store
 

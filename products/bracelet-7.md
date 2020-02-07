@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BCP008
-title: Black Quartz Bracelet
-description: Natural Black Quartz nuggets and copper plated spacer beads.
+id: BSS007
+title: Sterling Silver Aqua Agate Bracelet
+description: Translucent aqua colored Agate needles with Sterling silver spacers.
 price: "36"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0127.jpg"
+      fallback: "/images/Thumbnail-0104.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0127.jpg"
+      fallback: "/images/IMG_0104.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: copper
+material: sterling-silver
 featured: false
 section: Store
 

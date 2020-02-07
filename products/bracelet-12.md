@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BSS013
-title: bracelet 13
+id: BCP012
+title: bracelet 12
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0099.jpg"
+      fallback: "/images/Thumbnail-0170.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0099.jpg"
+      fallback: "/images/IMG_0170.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: ''
+material: copper
 featured: false
 section: Store
 

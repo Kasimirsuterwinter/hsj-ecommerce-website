@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BCP003
-title: Metalic Grey Quartz Bracelet
-description: Metalic grey treated Quartz crystals with copper-plated spacer beads.
-price: "38"
+id: BSS002
+title: bracelet 2
+description: ''
+price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0107.jpg"
+      fallback: "/images/Thumbnail-0102.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0107.jpg"
+      fallback: "/images/IMG_0102.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: copper
+material: sterling-silver
 featured: false
 section: Store
 

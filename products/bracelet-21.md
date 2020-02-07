@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BCP022
-title: bracelet 22
+id: BSS021
+title: bracelet 21
 description: ''
 price: ''
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-2033.jpg"
+      fallback: "/images/Thumbnail-2048.jpg"
     original:
       optimized: ''
-      fallback: "/images/DSC2033.jpg"
+      fallback: "/images/DSC2048.jpg"
   featured:
     thumbnail:
       optimized: ''

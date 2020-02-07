@@ -1,17 +1,17 @@
 ---
 layout: product
-id: BSS016
-title: Sterling Silver Marble Bracelet
-description: Rectangular Howlite with Sterling silver curved spacer beads.
-price: '58.00'
+id: BGP015
+title: Purple Agate Bracelet
+description: Large, flat Agate beads with dark grey patina curved spacer beads.
+price: '48.00'
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Thumbnail-0089.jpg"
+      fallback: "/images/Thumbnail-0119.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0089.jpg"
+      fallback: "/images/IMG_0119.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: silver
+material: grey-patina
 featured: false
 section: Store
 
