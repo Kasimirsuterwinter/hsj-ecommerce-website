@@ -4,7 +4,7 @@ id: BYG024
 title: Yellow gold Metalic Druzy Quartz Bracelet
 description: Metalic lustre druzy Quartz beads with yellow gold-filled curved tube
   beads.
-price: ''
+price: "65"
 images:
   default:
     thumbnail:
@@ -21,7 +21,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: ''
+material: gold
 featured: false
 section: Store
 
