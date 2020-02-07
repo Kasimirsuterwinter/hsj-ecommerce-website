@@ -1,9 +1,10 @@
 ---
 layout: product
 id: ESS001
-title: ''
-description: ''
-price: ''
+title: Silver and Mother of Pearl Earrings
+description: Sterling silver hook with a mother of pearl circular bead in which there
+  is an iridized hemitite bead.
+price: "20"
 images:
   default:
     thumbnail:
