@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: EGP008
 title: Earring 008
 description: ''
 price: ''

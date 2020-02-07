@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: EYG003
 title: Earring 003
 description: ''
 price: ''

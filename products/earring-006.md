@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: ESS006
 title: Earring 006
 description: ''
 price: ''

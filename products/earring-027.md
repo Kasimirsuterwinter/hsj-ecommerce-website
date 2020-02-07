@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: EGP027
 title: Earring 027
 description: ''
 price: ''

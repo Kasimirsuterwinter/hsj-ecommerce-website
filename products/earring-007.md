@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: EGP007
 title: Earring 007
 description: ''
 price: ''

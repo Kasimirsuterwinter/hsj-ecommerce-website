@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: EYG011
 title: Earring 011
 description: ''
 price: ''

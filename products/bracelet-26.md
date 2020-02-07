@@ -1,5 +1,5 @@
 ---
-id: "7"
+id: BSS026
 title: Bracelet 26
 description: A bracelet of white quartz cubes with sterling silver tubes.
 price: xx

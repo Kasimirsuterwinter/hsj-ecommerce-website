@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: EGP024
 title: Earring 024
 description: ''
 price: ''

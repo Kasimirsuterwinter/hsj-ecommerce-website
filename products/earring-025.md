@@ -1,6 +1,6 @@
 ---
 layout: product
-id: ''
+id: EGO025
 title: Earring 025
 description: ''
 price: ''
