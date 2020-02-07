@@ -23,6 +23,7 @@ featured: false
 section: Store
 layout: product
 material: sterling-silver
+published: false
 
 ---
 # Bracelet
