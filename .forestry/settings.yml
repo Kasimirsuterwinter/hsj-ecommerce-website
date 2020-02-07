@@ -21,6 +21,8 @@ sections:
   label: Home
   templates:
   - index
+- type: heading
+  label: Content
 - type: directory
   path: category
   label: Categories
@@ -28,8 +30,6 @@ sections:
   match: "**/*"
   templates:
   - categories
-- type: heading
-  label: Content
 - type: directory
   path: material
   label: Material
