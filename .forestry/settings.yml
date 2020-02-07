@@ -7,20 +7,20 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: faq.md
-  label: FAQ
+  path: index.md
+  label: Home
   templates:
-  - faq
+  - index
 - type: document
   path: about.md
   label: About
   templates:
   - about
 - type: document
-  path: index.md
-  label: Home
+  path: faq.md
+  label: FAQ
   templates:
-  - index
+  - faq
 - type: heading
   label: Content
 - type: directory
