@@ -1,9 +1,9 @@
 ---
 layout: product
-id: "1"
-title: bracelet 1
-description: ''
-price: "1"
+id: BCP025
+title: "- Blue Quarts Crystal Bracelet"
+description: 'Lustrous blue quartz bead and copper plated spacers. '
+price: "36"
 images:
   default:
     thumbnail:
