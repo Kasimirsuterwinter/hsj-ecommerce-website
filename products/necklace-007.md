@@ -1,9 +1,9 @@
 ---
 layout: product
 id: NGP007
-title: Necklace 007
-description: ''
-price: ''
+title: Crystal Selection Necklace
+description: A selection of different crystals are separated by dark grey metal spacer tubes.
+price: '70'
 images:
   default:
     thumbnail:

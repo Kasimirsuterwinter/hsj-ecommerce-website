@@ -1,7 +1,7 @@
 ---
 layout: product
 id: EYG003
-title: Earring 003
+title: Earrings 003
 description: ''
 price: '44'
 images:
@@ -23,5 +23,6 @@ category: earrings
 material: gold
 featured: false
 section: Store
+published: false
 
 ---

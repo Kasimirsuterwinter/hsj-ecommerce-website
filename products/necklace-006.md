@@ -1,9 +1,9 @@
 ---
 layout: product
 id: NCP006
-title: Necklace 006
-description: ''
-price: ''
+title: Amethyst Crystal Necklace
+description: A raw amethyst crystal surrounded by rounded crystal beads with copper spacer tubes.
+price: 80
 images:
   default:
     thumbnail:

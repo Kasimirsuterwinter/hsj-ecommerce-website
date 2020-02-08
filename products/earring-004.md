@@ -1,8 +1,8 @@
 ---
 layout: product
 id: EGP004
-title: Earring 004
-description: ''
+title: Pearl and Red Wood Earrings
+description: Two small pearls sandwitching a red wood bead, with metal hear clasp.
 price: '32'
 images:
   default:

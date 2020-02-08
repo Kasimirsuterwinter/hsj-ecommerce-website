@@ -1,9 +1,9 @@
 ---
 layout: product
 id: NGP008
-title: Necklace 008
-description: ''
-price: ''
+title: Blue Stone Necklace
+description: Softened bright blue stones separated by grey metal tubes.
+price: '75'
 images:
   default:
     thumbnail:

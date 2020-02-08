@@ -22,6 +22,7 @@ images:
 category: earrings
 material: grey-patina
 featured: false
-section: ''
+section: 'store'
+published: false
 
 ---

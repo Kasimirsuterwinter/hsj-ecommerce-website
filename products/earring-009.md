@@ -1,8 +1,8 @@
 ---
 layout: product
 id: EYG009
-title: Earring 009
-description: ''
+title: White Pearl Earrings
+description: A circular white mother of pearl bead encompasses a naturally formed white pearl. The hook is plated gold. 
 price: '44'
 images:
   default:

@@ -1,8 +1,8 @@
 ---
 layout: product
 id: EYG017
-title: Earring 017
-description: ''
+title: Red Glass and Black Stone Earrings
+description: A red glass bead and a raw black stone bead on gold hoops.
 price: '44'
 images:
   default:

@@ -1,9 +1,9 @@
 ---
 layout: product
 id: NGP001
-title: Necklace 001
-description: ''
-price: ''
+title: Blue and Metalic Necklace
+description: Blue soft stones with an add in of two metalic quartz crystals. The metal tubes or patina grey. 
+price: '85'
 images:
   default:
     thumbnail:

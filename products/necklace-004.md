@@ -1,9 +1,9 @@
 ---
 layout: product
 id: NGP004
-title: Necklace 004
-description: ''
-price: ''
+title: Clear Quartz Crystal Necklace
+description: Clear quartz crystals separated by dark grey metal tubes.
+price: '75'
 images:
   default:
     thumbnail:

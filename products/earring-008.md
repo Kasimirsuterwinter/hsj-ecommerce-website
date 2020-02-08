@@ -1,8 +1,8 @@
 ---
 layout: product
 id: EGP008
-title: Earring 008
-description: ''
+title: Mother of Pearl Earrings
+description: A small died pearl sits atop a flat circular mother of pearl bead. 
 price: '32'
 images:
   default:
