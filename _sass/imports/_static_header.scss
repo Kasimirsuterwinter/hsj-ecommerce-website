@@ -12,9 +12,11 @@
     background-color: $color_default;
     .no-webp & {
       background-image: $background_images_secondary;
+      background-position: center;
     }
     .webp & {
       background-image: $background_images_secondary_opt;
+      background-position: center;
     }
     background-size: auto 250%;
     background-position: calc(50% + 400px) 50%;
@@ -33,12 +35,12 @@
       margin-right: auto;
       margin-top: 50px;
       display: block;
-      background: $color_active; 
-      height: 3px; 
+      background: $color_active;
+      height: 3px;
       width: 60px;
     }
   }
-  
+
   &__title {
     font-family: $font_family_primairy;
     font-weight: bold;
