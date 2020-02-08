@@ -3,7 +3,7 @@ layout: product
 id: NGP005
 title: Geometric Wood Necklace
 description: Painted geometric wood beads with dark grey metal tubes.
-price: '80'
+price: "80"
 images:
   default:
     thumbnail:
@@ -15,13 +15,13 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail_9937.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_9937.jpg"
 category: necklaces
 material: grey-patina
-featured: false
+featured: true
 section: Store
 
 ---
