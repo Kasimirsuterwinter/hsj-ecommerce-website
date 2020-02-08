@@ -108,3 +108,13 @@ fields:
   default: product
   config:
     required: true
+- name: weight
+  type: number
+  label: Weight
+  description: 'This weight in grams will be used to calculate shipping costs automatically. '
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
