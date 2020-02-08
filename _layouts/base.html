@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
-    <head>    
-        
+    <head>
+
         <title>
             {{ page.title }}
         </title>
@@ -11,10 +11,26 @@
         <link rel="stylesheet" href="{{ site.snipcart_css }}" />
         <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
         <link rel="icon" type="image/png" href="{{ 'images/favicon.png' | relative_url }}">
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = window._paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="//piwik.kasimirsuterwinter.com/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '14']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><p><img src="//piwik.kasimirsuterwinter.com/matomo.php?idsite=14&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+        <!-- End Matomo Code -->
         
     </head>
     <body>
-        
+
         {{ content }}
         <script src="{{ 'js/main.js' | relative_url }}"></script>
         <script src="{{ site.snipcart_js }}" defer></script>
@@ -28,11 +44,11 @@
                     {% raw %}{{ $localize('actions.continue_shopping') }}{% endraw %}
                   </span>
                 </close-cart-action>
-        
+
                 <h3 class="snipcart-cart-header__title snipcart__font--black snipcart__font--secondary" v-if="title">
                   <img src="{{ site.logos.dark.optimized | relative_url }}" alt="">
                 </h3>
-        
+
                 <div class="snipcart-cart-header__count snipcart__font--secondary snipcart__font--bold">
                   <icon name="cart" class="snipcart-cart-header__icon snipcart__icon--blue-dark"></icon>
                   {% raw %}{{ itemsCount }}{% endraw %}
@@ -59,9 +75,9 @@
                       {% raw %}{{ $localize('actions.continue_shopping') }}{% endraw %}
                     </span>
                   </close-cart-action>
-        
+
                   <img src="{{ site.logos.dark.optimized | relative_url }}" alt="" class="snipcart-modal__logo">
-        
+
                   <div class="snipcart-modal__header-summary">
                     <div
                       class="snipcart-modal__header-summary-title snipcart__font--large snipcart__font--secondary snipcart__font--bold"
@@ -81,5 +97,5 @@
             </div>
           </checkout>
         </div>
-    </body> 
+    </body>
 </html>
