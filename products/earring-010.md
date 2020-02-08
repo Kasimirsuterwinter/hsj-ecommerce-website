@@ -22,7 +22,7 @@ images:
       fallback: "/images/IMG_0181.jpg"
 category: earrings
 material: sterling-silver
-featured: false
+featured: true
 section: Store
 
 ---
