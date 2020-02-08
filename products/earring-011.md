@@ -3,7 +3,7 @@ layout: product
 id: EYG011
 title: Earring 011
 description: ''
-price: ''
+price: '44'
 images:
   default:
     thumbnail:

@@ -3,7 +3,7 @@ layout: product
 id: EGP021
 title: Earring 021
 description: ''
-price: ''
+price: '32'
 images:
   default:
     thumbnail:

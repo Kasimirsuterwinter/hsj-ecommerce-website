@@ -3,7 +3,7 @@ layout: product
 id: ESS010
 title: Earring 010
 description: ''
-price: ''
+price: '38'
 images:
   default:
     thumbnail:

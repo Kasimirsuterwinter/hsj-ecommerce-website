@@ -3,7 +3,7 @@ layout: product
 id: EYG016
 title: Earring 016
 description: ''
-price: ''
+price: '44'
 images:
   default:
     thumbnail:

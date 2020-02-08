@@ -3,7 +3,7 @@ layout: product
 id: EYG018
 title: Earring 018
 description: ''
-price: ''
+price: '44'
 images:
   default:
     thumbnail:

@@ -3,7 +3,7 @@ layout: product
 id: EYG002
 title: Gold and Pearl Earring
 description: Gold hook with a died gold pearl and black stone bead.
-price: "18"
+price: "44"
 images:
   default:
     thumbnail:

@@ -3,7 +3,7 @@ layout: product
 id: EGP007
 title: Earring 007
 description: ''
-price: ''
+price: '32'
 images:
   default:
     thumbnail:

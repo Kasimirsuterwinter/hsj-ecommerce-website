@@ -3,7 +3,7 @@ layout: product
 id: ESS016
 title: Earring 016
 description: ''
-price: ''
+price: '38'
 images:
   default:
     thumbnail:

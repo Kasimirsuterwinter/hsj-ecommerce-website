@@ -2,7 +2,7 @@
 layout: product
 id: EGP027
 title: Earring 027
-description: ''
+description: '32'
 price: ''
 images:
   default:

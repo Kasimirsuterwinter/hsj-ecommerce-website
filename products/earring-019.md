@@ -3,7 +3,7 @@ layout: product
 id: EGP019
 title: Earring 019
 description: ''
-price: ''
+price: '32'
 images:
   default:
     thumbnail:

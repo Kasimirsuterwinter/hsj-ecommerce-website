@@ -3,7 +3,7 @@ layout: product
 id: EGP008
 title: Earring 008
 description: ''
-price: ''
+price: '32'
 images:
   default:
     thumbnail:

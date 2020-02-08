@@ -3,7 +3,7 @@ layout: product
 id: EGP020
 title: Earring 020
 description: ''
-price: ''
+price: '32'
 images:
   default:
     thumbnail:

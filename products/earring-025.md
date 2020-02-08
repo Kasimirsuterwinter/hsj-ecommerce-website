@@ -3,7 +3,7 @@ layout: product
 id: EGO025
 title: Earring 025
 description: ''
-price: ''
+price: '32'
 images:
   default:
     thumbnail:

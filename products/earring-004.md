@@ -3,7 +3,7 @@ layout: product
 id: EGP004
 title: Earring 004
 description: ''
-price: ''
+price: '32'
 images:
   default:
     thumbnail:

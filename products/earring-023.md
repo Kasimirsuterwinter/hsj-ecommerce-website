@@ -3,7 +3,7 @@ layout: product
 id: ESS023
 title: Earring 023
 description: ''
-price: ''
+price: '38'
 images:
   default:
     thumbnail:
