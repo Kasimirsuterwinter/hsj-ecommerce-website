@@ -29,7 +29,7 @@ palettes:
       overlay_color1: rgba(#ffe300, 0.29)
       overlay_color2: rgba(#F4C302, 0.3)
       promo_background: "#de206182"
-      bg_image_primary_optimized: "/images/header.webp"
+      bg_image_primary_optimized: ''
       bg_image_primary_fallback: "/images/header.jpg"
       bg_image_secondary_optimized: "/images/leaf-light-grey.svg"
       bg_image_secondary_fallback: "/images/leaf-light-grey.svg"
