@@ -2,8 +2,9 @@
 layout: product
 id: NGP002
 title: White Quartz Crystal Necklace
-description: A necklace of smooth rounded white quartz crystal beads.
-price: 90
+description: A necklace of assorted sizes of smooth round and pebble shaped white
+  quartz crystal beads.
+price: "125"
 images:
   default:
     thumbnail:
@@ -20,7 +21,7 @@ images:
       optimized: ''
       fallback: ''
 category: necklaces
-material: grey-patina
+material: sterling-silver
 featured: false
 section: Store
 
