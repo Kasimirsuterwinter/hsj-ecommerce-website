@@ -19,12 +19,9 @@ images:
       optimized: ''
       fallback: "/images/Dark Blue Crystal Necklace.jpg"
 category: necklaces
-featured: true
+featured: false
 section: Store
 layout: product
 material: grey-patina
 
 ---
-# Dark Blue Crystal Necklace
-
-Dark Blue crystal necklace with dark gray patina metal spacers.
