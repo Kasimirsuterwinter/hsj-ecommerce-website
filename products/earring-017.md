@@ -1,8 +1,8 @@
 ---
 layout: product
 id: EYG017
-title: Red Glass and Black Quartz Earrings
-description: A red Czech glass bead and a black Quartz nugget bead on gold-plated
+title: Black Quartz Earrings
+description: Black Quartz nugget bead and red Czech faceted glass bead, gold-plated
   hoops.
 price: "44"
 images:
