@@ -1,8 +1,8 @@
 ---
 layout: product
 id: BGP001
-title: Blue Quartz Crystal Bracelet draft
-description: ''
+title: 'Blue Quartz Crystal Bracelet '
+description: Iridized blue Quartz crystal with curved copper spacing beads.
 price: "36"
 images:
   default:
