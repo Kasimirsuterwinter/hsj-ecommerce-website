@@ -1,8 +1,9 @@
 ---
 layout: product
 id: EYG017
-title: Red Glass and Black Stone Earrings
-description: A red glass bead and a raw black stone bead on gold hoops.
+title: Red Glass and Black Quartz Earrings
+description: A red Czech glass bead and a black Quartz nugget bead on gold-plated
+  hoops.
 price: "44"
 images:
   default:
