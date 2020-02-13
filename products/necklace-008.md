@@ -1,9 +1,9 @@
 ---
 layout: product
 id: NGP008
-title: Blue Stone Necklace
-description: Softened bright blue stones separated by grey metal tubes.
-price: "75"
+title: Transparent Aqua Agate Necklace
+description: Tumbled transparent aqua blue Agates separated by grey metal patinatubes.
+price: "95"
 images:
   default:
     thumbnail:
