@@ -1,7 +1,7 @@
 ---
 layout: product
 id: BCP005
-title: Gold Metalic Quartz Bracelet
+title: Metalic Quartz Bracelet
 description: Metalic gold color treated Quartz crystals with lustre Quartz accent
   bead and copper-plated spacers.
 price: "36"
