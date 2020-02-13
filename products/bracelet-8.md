@@ -23,5 +23,6 @@ category: bracelets
 material: copper
 featured: false
 section: Store
+published: false
 
 ---
