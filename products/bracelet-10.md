@@ -1,9 +1,9 @@
 ---
 layout: product
 id: BGP010
-title: Metalic Grey Quartz Bracelet draft
+title: 'Metalic Grey Quartz Bracelet '
 description: Metalic grey quartz crystals with grey patina spacer beads.
-price: '36'
+price: "38"
 images:
   default:
     thumbnail:
