@@ -3,7 +3,7 @@ layout: product
 id: BSS007
 title: Sterling Silver Aqua Agate Bracelet
 description: Translucent aqua colored Agate needles with Sterling silver spacers.
-price: "36"
+price: "58"
 images:
   default:
     thumbnail:
