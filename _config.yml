@@ -29,8 +29,8 @@ palettes:
       overlay_color1: rgba(#ffe300, 0.29)
       overlay_color2: rgba(#F4C302, 0.3)
       promo_background: "#de206182"
-      bg_image_primary_optimized: "/images/DSC_9405_1.jpg"
-      bg_image_primary_fallback: "/images/DSC_9405_1.jpg"
+      bg_image_primary_optimized: "/images/DSC_9350_1.jpg"
+      bg_image_primary_fallback: "/images/DSC_9350_1.jpg"
       bg_image_secondary_optimized: "/images/leaf-light-grey.svg"
       bg_image_secondary_fallback: "/images/leaf-light-grey.svg"
       bg_image_product_optimized: "/images/leaf.svg"
