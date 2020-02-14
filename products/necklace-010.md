@@ -13,15 +13,16 @@ images:
       fallback: "/images/Blue Quartz Necklace.jpg"
   featured:
     thumbnail:
-      optimized:
-      fallback:
+      optimized: 
+      fallback: 
     original:
-      optimized:
-      fallback:
+      optimized: 
+      fallback: 
 category: necklaces
 material: grey-patina
 featured: false
 section: Store
 layout: product
+published: false
 
 ---
