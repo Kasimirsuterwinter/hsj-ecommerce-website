@@ -1,9 +1,10 @@
 ---
 layout: product
 id: NCP006
-title: Amethyst Crystal Necklace
-description: A raw amethyst crystal surrounded by rounded crystal beads with copper spacer tubes.
-price: 80
+title: Druzy and Amethyst Crystal Necklace
+description: Metalic druzy Quartz round beads with amethyst crystal accent bead and
+  copper-plated spacer tubes.
+price: "85"
 images:
   default:
     thumbnail:
