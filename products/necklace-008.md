@@ -1,8 +1,8 @@
 ---
 layout: product
 id: NGP008
-title: Transparent Aqua Agate Necklace
-description: Tumbled transparent aqua blue Agates separated by grey metal patinatubes.
+title: Transparent Agate Necklace
+description: Tumbled transparent aqua blue Agates separated by grey patina metal tubes.
 price: "95"
 images:
   default:
