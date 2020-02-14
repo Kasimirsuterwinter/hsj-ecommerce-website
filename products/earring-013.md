@@ -1,9 +1,10 @@
 ---
 layout: product
 id: EGP013
-title: Black Stone and Glass Earrings
-description: A geometry cut black stone bead sits atop a Czech Glass bead of black and clear glass. The hook is plated metal.
-price: '32'
+title: Blown Glass Earrings
+description: A geometric cut black Czech glass bead sits atop a blown glass bead.
+  Non-allergic black findings.
+price: "32"
 images:
   default:
     thumbnail:
