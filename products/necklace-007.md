@@ -1,9 +1,10 @@
 ---
 layout: product
 id: NGP007
-title: Crystal Selection Necklace
-description: A selection of different crystals are separated by dark grey metal spacer tubes.
-price: '70'
+title: Multi Stone and Crystal Necklace
+description: A selection of multi colored Agate and Quartz crystals with grey patina
+  metal spacer tubes.
+price: "95"
 images:
   default:
     thumbnail:
