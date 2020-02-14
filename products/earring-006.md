@@ -1,7 +1,7 @@
 ---
 layout: product
 id: ESS006
-title: Mother of Pearl Earrings
+title: Mother of Pearl and Ceramic Earrings
 description: A mother of pearl circle bead surrounds a black Swiss ceramic bead. The
   hook is sterling silver.
 price: "38"
