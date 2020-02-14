@@ -2,8 +2,8 @@
 layout: product
 id: EGP008
 title: Mother of Pearl Earrings
-description: A small died pearl sits atop a flat circular mother of pearl bead. 
-price: '32'
+description: A small dyed pearl sits atop a 2 cm, grey Mother of Pearl bead.
+price: "32"
 images:
   default:
     thumbnail:
