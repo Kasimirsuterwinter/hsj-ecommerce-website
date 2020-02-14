@@ -20,11 +20,11 @@ layout: body
         {% assign category_pages = '/category' | get_pages | sort: 'name' %}
         {% assign categoryIndex = 0 %}
         {% for category_page in category_pages %}
-            {% assign categoryIndex = categoryIndex | plus: 1 %}
+            {% assign categoryIndex = categoryIndex | plus: 0 %}
             {% if categoryIndex < 3 %}
                 {% assign category_product_pages = '/products' | get_pages | where_exp: "item", "item.category == category_page.slug" | sort: 'title' %}
                 {% assign count = category_product_pages | size %}
-                {% if count > 0 %}
+                {% if count > 1 %}
                     <h2 class="content__row-title">{{ category_page.title }}</h2>
 
                     {% include product_grid_home.html product_pages=category_product_pages cssClass='product-grid--draggable' %}
