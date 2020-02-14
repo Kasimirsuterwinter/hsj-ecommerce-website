@@ -1,9 +1,9 @@
 ---
 layout: product
 id: EYG028
-title: Pearl and Glass Earrings
-description: A small natural white pearl sits atop two glass beads of different qualities.
-  The metal is gold.
+title: Pearl and African Glass Earrings
+description: A small natural white pearl sits atop an African tumled glass and a Labradorite
+  bead. Gold-plated hoops.
 price: "44"
 images:
   default:
