@@ -1,7 +1,7 @@
 ---
 layout: product
 id: ESS010
-title: Iridized Hematite Earrings
+title: Iridescent Hematite Earrings
 description: An iridized glass bead sits atop an iridized hematite stone bead. Sterling
   silver finding.
 price: "38"
