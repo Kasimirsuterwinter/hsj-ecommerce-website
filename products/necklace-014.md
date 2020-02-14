@@ -1,7 +1,7 @@
 ---
 id: NGP014
-title: Dark Blue Crystal Necklace
-description: Dark Blue crystal necklace with dark grey patina metal spacers.
+title: Blue Crystal Necklace
+description: Dark blue treated needle crystal beads with grey patina metal spacers.
 price: "95"
 images:
   default:
