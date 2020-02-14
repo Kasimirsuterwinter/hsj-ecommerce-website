@@ -18,7 +18,7 @@ palettes:
     sass:
       default: "#FFFFFF"
       light: "#F0F0F0"
-      medium: "#6B797A"
+      medium: "#6D6F6F"
       dark: "#384647"
       active: "#ffcb00"
       active_light: "#ffeb9d"
