@@ -1,8 +1,9 @@
 ---
 layout: product
 id: EGP008
-title: Mother of Pearl Earrings
-description: A small dyed pearl sits atop a 2 cm, grey Mother of Pearl bead.
+title: Grey Mother of Pearl Disc Earrings
+description: A small dyed grey pearl sits atop a 2 cm, grey/black Mother of Pearl
+  disc bead.
 price: "32"
 images:
   default:
