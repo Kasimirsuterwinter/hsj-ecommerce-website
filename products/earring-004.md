@@ -1,9 +1,10 @@
 ---
 layout: product
 id: EGP004
-title: Pearl and Red Wood Earrings
-description: Two small pearls sandwitching a red wood bead, with metal hear clasp.
-price: '32'
+title: Pearl and Wood Earrings
+description: Two small pearls sandwitching an orange red wood bead, with sterling
+  silver findings.
+price: "38"
 images:
   default:
     thumbnail:
