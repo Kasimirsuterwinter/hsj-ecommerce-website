@@ -11,11 +11,12 @@ questions:
     * US shipping will take between 3 to 7 business days.
     * International shipping will take between 5 and 10 business days.
 - question: How do refunds and returns work?
-  answer: "We hope you do not find yourself in this position, but if you need to return
-    your jewelry. \n\n* All discounted items sales are final.\n* If you’d like another
-    version of your item, please use the return label. Instructions are printed on
-    its back.\n* If your jewelry is damaged or not functioning correctly, email us
-    at jewelry(at)helensuter.studio, and we’ll refund you + send you a new one ASAP!"
+  answer: |-
+    We hope you do not find yourself in this position, but if you need to return your jewelry.
+
+    * All discounted sales items are final.
+    * If you’d like another version of your item, please use the return label. Instructions are printed on its back.
+    * If your jewelry is damaged or defective, email us at jewelry(at)helensuter.studio, and we’ll process a return and refund ASAP!
 - question: How do you handle sensitive customer information?
   answer: 'Your checkout information is securely processed through Square. We only
     use your email for contacting you, we will not sell your information or make it
