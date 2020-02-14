@@ -1,8 +1,8 @@
 ---
 id: NGP009
 title: Red Coral Necklace
-description: Red coral necklace with dark grey patina spacer beads.
-price: "95"
+description: Red coral bead necklace with grey patina spacer beads.
+price: "85"
 images:
   default:
     thumbnail:
@@ -14,10 +14,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback:
+      fallback: 
     original:
       optimized: ''
-      fallback:
+      fallback: 
 category: necklaces
 featured: false
 section: Store
