@@ -1,8 +1,8 @@
 ---
 id: NGP011
-title: Black Wood Necklace
-description: Naturally shaped black wooden beads separated by dark grey patina metal
-  tubes.
+title: Ebony Wood Necklace
+description: Soft-edge uneven geometric shaped black wood beads separated by grey
+  patina metal tubes.
 price: "95"
 images:
   default:
