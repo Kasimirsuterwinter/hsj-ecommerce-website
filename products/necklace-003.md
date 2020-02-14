@@ -2,8 +2,9 @@
 layout: product
 id: NSS003
 title: Round Soft Glass Necklace
-description: A necklace of small glass beads with four larger central beads of rounded crystal. The spacer beads are sterling silver.
-price: 95
+description: A necklace of small glass beads with four larger central beads of rounded
+  crystal. The spacer beads are sterling silver.
+price: "95"
 images:
   default:
     thumbnail:
@@ -23,5 +24,6 @@ category: necklaces
 material: sterling-silver
 featured: false
 section: Store
+published: false
 
 ---
