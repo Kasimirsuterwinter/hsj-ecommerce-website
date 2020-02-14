@@ -1,8 +1,9 @@
 ---
 layout: product
 id: BCP009
-title: Rainbow Quartz Bracelet
-description: Lustrous rainbow quartz with gold accent bead and copper plated spacers.
+title: Rainbow Needle Quartz Bracelet
+description: Lustrous rainbow needle Quartz with gold color accent bead and copper
+  plated spacers.
 price: "36"
 images:
   default:
