@@ -8,7 +8,7 @@ questions:
   answer: |-
     The length of shipping will depend on your location. As a general guide:
 
-    * US shipping will take between 3 to 5 business days.
+    * US shipping will take between 3 to 7 business days.
     * International shipping will take between 5 and 10 business days.
 - question: How do refunds and returns work?
   answer: "We hope you do not find yourself in this position, but if you need to return
