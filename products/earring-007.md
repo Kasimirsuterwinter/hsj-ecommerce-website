@@ -1,7 +1,7 @@
 ---
 layout: product
 id: EGP007
-title: Mother of Pearl Earrings
+title: White Mother of Pearl Earrings
 description: Mother of Pearl squares alternate with white pearls. Sterling Silver
   hooks.
 price: "38"
