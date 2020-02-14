@@ -2,7 +2,8 @@
 layout: product
 id: EYG028
 title: Pearl and Glass Earrings
-description: A small natural white pearl sits atop two glass beads of different qualities. The metal is gold. 
+description: A small natural white pearl sits atop two glass beads of different qualities.
+  The metal is gold.
 price: "44"
 images:
   default:
@@ -22,6 +23,7 @@ images:
 category: earrings
 material: gold
 featured: false
-section: 'store'
+section: ''
+published: false
 
 ---
