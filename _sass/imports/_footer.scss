@@ -1,6 +1,6 @@
 .footer {
   @include container-properties;
-  background-color: $color_dark;
+  background-color: $color_medium;
 
   &__container {
       @include container-item-properties;
@@ -34,7 +34,7 @@
   }
 
   &__nav-link {
-    color: $color_medium;
+    color: $color_light;
     font-weight: bold;
 }
 
@@ -43,7 +43,7 @@
       padding-bottom: 25px;
 }
   &__legal-notice-item {
-      color: $color_medium;
+      color: $color_light;
       font-weight: normal;
 
 
