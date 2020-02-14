@@ -23,14 +23,17 @@ questions:
     available to any 3rd parties. '
 - question: Rapid-fire questions
   answer: 'Q: Will you create custom orders for weddings? <br /> A: Yes! just write
-    to jewelry(at)helensuter.studio with your inquiry and I will get back to you right
-    away.  <br /><br /> Q: Is your jewelry water proof? <br /> A: Yes it generally
-    is, however some pieces with wooden beads should not be excessively exposed to
-    water. <br /><br /> Q: Is the gold and silver solid? <br /> A: No. It is copper
-    with a thick platting of gold or silver. <br /><br /> Q: Can I carry your jewelry
-    in my shop? <br /> A: Yes! I can provide pieces on consiment or wholesale. Just
-    write me at jewelry(at)helensuter.studio  <br /><br /> Q: Are you an artist as
-    well? <br /> A: Yes, I am a trained sculpture. You can find my work at helensuter.studio'
+    to jewelry(at)helensuter.studio with your inquiry and we will get back to you
+    right away.  <br /><br /> Q: Is your jewelry water proof? <br /> A: Yes it generally
+    is, however some pieces with wooden beads should not be exposed to water. <br
+    /><br /> Q: Is the gold and silver solid? <br /> A: Yes, the silver parts are
+    Sterling silver. The gold tube beads are gold-filled, that is the term used for
+    high quality gold-plating on Sterling silver. <br /><br /> Q: Can I carry your
+    jewelry in my shop? <br /> A: Yes! I do wholesale business as well. Write me at
+    jewelry(at)helensuter.studio and let me know what you are interested in carrying
+    in your store. <br /><br /> Q: Are you an artist as well? <br /> A: Yes, I am
+    a trained metal sculptor. You can find my work at helensuter.studio and follow
+    me on Instagram'
 layout: faq
 menu:
   main:
