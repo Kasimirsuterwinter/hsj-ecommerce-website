@@ -1,6 +1,6 @@
 ---
 id: NGP015
-title: White Marble Necklace
+title: White Marbled Necklace
 description: Marble look white Howlite beads, spaced with grey patina metal tubes.
   Loose choker.
 price: "95"
