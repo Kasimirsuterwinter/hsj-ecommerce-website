@@ -3,7 +3,7 @@ layout: product
 id: BSS016
 title: White Marbled Bracelet
 description: Rectangular Howlite with Sterling silver curved spacer beads.
-price: '58.00'
+price: "58"
 images:
   default:
     thumbnail:
