@@ -1,7 +1,7 @@
 ---
 layout: product
 id: BSS016
-title: Sterling Silver Marble Bracelet
+title: Marble Look Bracelet
 description: Rectangular Howlite with Sterling silver curved spacer beads.
 price: '58.00'
 images:
@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: bracelets
-material: silver
+material: ''
 featured: false
 section: Store
 
