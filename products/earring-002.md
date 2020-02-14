@@ -1,7 +1,7 @@
 ---
 layout: product
 id: EYG002
-title: Gold and Pearl Earring
+title: Black Quartz and Pearl Earring
 description: Black Quartz nugget with dyed pearl and aqua Czech glass bead. Gold-plated
   hook.
 price: "44"
