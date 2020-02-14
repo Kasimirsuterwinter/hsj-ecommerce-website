@@ -13,15 +13,16 @@ images:
       fallback: "/images/Copper Quartz Necklace.jpg"
   featured:
     thumbnail:
-      optimized:
-      fallback:
+      optimized: 
+      fallback: 
     original:
-      optimized:
-      fallback:
+      optimized: 
+      fallback: 
 category: necklaces
 featured: false
 section: Store
 layout: product
 material: copper
+published: false
 
 ---
