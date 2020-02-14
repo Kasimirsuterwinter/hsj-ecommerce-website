@@ -2,8 +2,9 @@
 layout: product
 id: ESS005
 title: White Quartz Crystal Earrings
-description: Two small white quartz crystal beads with a larger one in the center. The metal is sterling silver. 
-price: '38'
+description: TwQuartz crystal bead sandwiched between 2 small opal glass beads. Sterling
+  silver hook.
+price: "38"
 images:
   default:
     thumbnail:
