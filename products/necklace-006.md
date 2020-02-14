@@ -1,7 +1,7 @@
 ---
 layout: product
 id: NCP006
-title: Druzy and Amethyst Crystal Necklace
+title: Druzy Quartz with Amethyst Necklace
 description: Metalic druzy Quartz round beads with amethyst crystal accent bead and
   copper-plated spacer tubes.
 price: "85"
