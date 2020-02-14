@@ -1,9 +1,10 @@
 ---
 layout: product
 id: ESS006
-title: Mother of Pearl and Stone Earrings
-description: A mother of pearl circular bead encompasses a special black stone bead. The hook is sterling silver.
-price: '38'
+title: Mother of Pearl Earrings
+description: A mother of pearl circle bead surrounds a black Swiss ceramic bead. The
+  hook is sterling silver.
+price: "38"
 images:
   default:
     thumbnail:
