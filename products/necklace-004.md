@@ -1,9 +1,10 @@
 ---
 layout: product
 id: NGP004
-title: Clear Quartz Crystal Necklace
-description: Clear quartz crystals separated by dark grey metal tubes.
-price: '75'
+title: Clear Quartz Choker Necklace
+description: Clear quartz crystals separated by dark grey metal tubes. Fits close
+  to neck.
+price: "85"
 images:
   default:
     thumbnail:
