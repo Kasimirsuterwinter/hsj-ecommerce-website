@@ -1,9 +1,10 @@
 ---
 layout: product
 id: EGP007
-title: Earring 007
-description: ''
-price: '32'
+title: Mother of Pearl Earrings
+description: Mother of Pearl squares alternate with white pearls. Sterling Silver
+  hooks.
+price: "38"
 images:
   default:
     thumbnail:
@@ -23,6 +24,5 @@ category: earrings
 material: grey-patina
 featured: false
 section: Store
-published: false
 
 ---
