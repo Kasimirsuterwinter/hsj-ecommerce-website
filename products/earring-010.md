@@ -1,9 +1,9 @@
 ---
 layout: product
 id: ESS010
-title: Iridized Glass and Hemitite Earrings
-description: An iridized glass bead sits atop an iridized hemitite stone bead. The
-  clasp is sterling silver.
+title: Iridized Hematite Earrings
+description: An iridized glass bead sits atop an iridized hematite stone bead. Sterling
+  silver finding.
 price: "38"
 images:
   default:
