@@ -1,9 +1,10 @@
 ---
 layout: product
 id: NGP001
-title: Blue and Metalic Necklace
-description: Blue soft stones with an add in of two metalic quartz crystals. The metal tubes or patina grey. 
-price: '85'
+title: Agate and Quartz Necklace
+description: Blue tumbled Agate, accented with two metalic grey Quartz crystals. Curved
+  spacer beads in grey patina.
+price: "95"
 images:
   default:
     thumbnail:
