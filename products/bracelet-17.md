@@ -1,9 +1,10 @@
 ---
 layout: product
 id: BSS017
-title: bracelet 17
-description: ''
-price: ''
+title: Modern Czech Glass Bracelet 17
+description: Black and white two-tone Czech glass beads with silver plated straight
+  tube beads.
+price: "48"
 images:
   default:
     thumbnail:
