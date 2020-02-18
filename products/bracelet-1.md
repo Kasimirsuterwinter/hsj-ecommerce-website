@@ -18,7 +18,7 @@ images:
       fallback: ''
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0131.jpg"
 category: bracelets
 material: copper
 featured: true
