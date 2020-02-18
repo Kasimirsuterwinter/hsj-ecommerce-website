@@ -1,9 +1,9 @@
 ---
 layout: product
 id: BSS013
-title: bracelet 13
-description: ''
-price: ''
+title: Pink Pearl Bracelet
+description: Pink pearls with Sterling Silver curved beads.
+price: "48"
 images:
   default:
     thumbnail:
