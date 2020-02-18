@@ -1,9 +1,9 @@
 ---
 layout: product
 id: ESS016
-title: Earring 016
-description: ''
-price: '38'
+title: 'Metallic Ceramic Earring '
+description: Grey metallic ceramic with glass bead. Silver hooks.
+price: "38"
 images:
   default:
     thumbnail:
