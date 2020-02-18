@@ -1,9 +1,9 @@
 ---
 layout: product
 id: EGP012
-title: Earring 012
-description: ''
-price: '32'
+title: Curved Hematitie Earrings
+description: Curved faceted Hematite with copper tube. Cark grey patina hook.
+price: "32"
 images:
   default:
     thumbnail:
