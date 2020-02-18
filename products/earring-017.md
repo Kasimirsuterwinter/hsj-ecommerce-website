@@ -22,7 +22,7 @@ images:
       fallback: "/images/IMG_0261.jpg"
 category: earrings
 material: gold
-featured: true
+featured: false
 section: Store
 
 ---
