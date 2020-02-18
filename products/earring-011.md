@@ -1,9 +1,9 @@
 ---
 layout: product
 id: EYG011
-title: Earring 011
-description: ''
-price: '44'
+title: 'White Pearl and Glass Earring '
+description: White fresh water pearls and white glass beads with gold-filled hooks.
+price: "44"
 images:
   default:
     thumbnail:
