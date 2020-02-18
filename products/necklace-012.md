@@ -23,6 +23,5 @@ featured: false
 section: Store
 layout: product
 material: copper
-published: false
 
 ---
