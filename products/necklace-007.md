@@ -1,7 +1,7 @@
 ---
 layout: product
 id: NGP007
-title: Multi Stone and Crystal Necklace
+title: Gem Stone and Crystal Necklace
 description: A selection of multi colored Agate and Quartz crystals with grey patina
   metal spacer tubes.
 price: "95"
