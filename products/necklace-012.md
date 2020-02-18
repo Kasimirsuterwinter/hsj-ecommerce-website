@@ -1,7 +1,7 @@
 ---
 id: NCP012
-title: Iridized Copper Quartz Necklace
-description: Orange Quartz necklace with copper patina tube spacer beads..
+title: Iridized Quartz Necklace
+description: Iridescent orange Quartz necklace with copper patina tube spacer beads..
 price: "95"
 images:
   default:
