@@ -1,6 +1,6 @@
 ---
 id: BSS026
-title: Bracelet 26
+title: 'White Raw Cube Quartz Bracelet '
 description: A bracelet of white quartz cubes with sterling silver tubes.
 price: xx
 images:
