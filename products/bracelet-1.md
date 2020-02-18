@@ -21,7 +21,7 @@ images:
       fallback: "/images/IMG_0131.jpg"
 category: bracelets
 material: copper
-featured: true
+featured: false
 section: Store
 material_option:
 - 'Patina Grey | '
