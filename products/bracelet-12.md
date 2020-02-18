@@ -1,9 +1,9 @@
 ---
 layout: product
 id: BCP012
-title: bracelet 12
-description: ''
-price: ''
+title: Two-tone Agate Bracelet
+description: Grey and pink Agate oval flat beads with copper plated tube beads.
+price: "36"
 images:
   default:
     thumbnail:
