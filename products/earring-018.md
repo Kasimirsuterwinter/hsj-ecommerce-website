@@ -1,9 +1,10 @@
 ---
 layout: product
 id: EYG018
-title: Earring 018
-description: ''
-price: '44'
+title: Freshwater Pearl Earring
+description: Large white freshwater pearls with iridescent glass accent tube beads
+  and gold-plated safety hooks.
+price: "44"
 images:
   default:
     thumbnail:
@@ -23,6 +24,5 @@ category: earrings
 material: gold
 featured: false
 section: Store
-published: false
 
 ---
