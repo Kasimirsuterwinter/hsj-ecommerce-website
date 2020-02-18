@@ -1,9 +1,10 @@
 ---
 layout: product
 id: BCP020
-title: bracelet 20
-description: ''
-price: ''
+title: 'Green Czech Glass Bracelet '
+description: Green smooth flat Czech glass beads with multi color inlays and re gold-filled
+  curved beads.
+price: "68"
 images:
   default:
     thumbnail:
