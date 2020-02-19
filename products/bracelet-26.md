@@ -13,11 +13,11 @@ images:
       fallback: "/images/White Quartz Bracelet.jpg"
   featured:
     thumbnail:
-      optimized: "/images/plant7-featured.webp"
-      fallback: "/images/plant7-featured.jpg"
+      optimized: ''
+      fallback: "/images/White Quartz Bracelet.jpg"
     original:
-      optimized: "/images/plant7-featured-lg.webp"
-      fallback: "/images/plant7-featured-lg.jpg"
+      optimized: ''
+      fallback: "/images/White Quartz Bracelet.jpg"
 category: bracelets
 featured: false
 section: Store

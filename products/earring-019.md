@@ -15,10 +15,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0217.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0217.jpg"
 category: earrings
 material: grey-patina
 featured: false

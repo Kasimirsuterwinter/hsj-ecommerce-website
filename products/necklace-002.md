@@ -16,10 +16,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0014.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0014.jpg"
 category: necklaces
 material: sterling-silver
 featured: false

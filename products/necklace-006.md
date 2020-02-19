@@ -16,10 +16,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0002.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0002.jpg"
 category: necklaces
 material: copper
 featured: false

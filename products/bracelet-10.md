@@ -15,10 +15,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0143.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0143.jpg"
 category: bracelets
 material: grey-patina
 featured: false

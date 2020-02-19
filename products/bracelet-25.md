@@ -15,10 +15,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-2023.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/DSC2023.jpg"
 material: gold
 category: bracelets
 featured: false

@@ -13,11 +13,11 @@ images:
       fallback: "/images/Copper Quartz Necklace.jpg"
   featured:
     thumbnail:
-      optimized: 
-      fallback: 
+      optimized: ''
+      fallback: "/images/Copper Quartz Necklace_Thumbnail.jpg"
     original:
-      optimized: 
-      fallback: 
+      optimized: ''
+      fallback: "/images/Copper Quartz Necklace.jpg"
 category: necklaces
 featured: false
 section: Store

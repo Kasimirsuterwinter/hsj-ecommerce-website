@@ -15,10 +15,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0089.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0089.jpg"
 category: bracelets
 material: ''
 featured: false

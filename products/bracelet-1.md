@@ -15,7 +15,7 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0131.jpg"
     original:
       optimized: ''
       fallback: "/images/IMG_0131.jpg"
@@ -23,10 +23,5 @@ category: bracelets
 material: copper
 featured: true
 section: Store
-material_option:
-- 'Patina Grey | '
-- 'Copper [+5.00] | '
-- Silver [+20.00] |
-- Gold [+30.00]
 
 ---

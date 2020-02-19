@@ -14,10 +14,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: 
+      fallback: "/images/Red Coral Necklace_thumbnail.jpg"
     original:
       optimized: ''
-      fallback: 
+      fallback: "/images/Red Coral Necklace.jpg"
 category: necklaces
 featured: false
 section: Store

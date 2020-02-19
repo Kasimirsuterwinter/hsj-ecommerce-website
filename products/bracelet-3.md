@@ -11,14 +11,14 @@ images:
       fallback: "/images/Thumbnail-0107.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0107.jpg"
+      fallback:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0107.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0107.jpg"
 category: bracelets
 material: copper
 featured: false

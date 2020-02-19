@@ -16,10 +16,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0205.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0205.jpg"
 category: earrings
 material: sterling-silver
 featured: false

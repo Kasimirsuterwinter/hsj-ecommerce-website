@@ -15,10 +15,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0135.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0135.jpg"
 category: bracelets
 material: copper
 featured: false

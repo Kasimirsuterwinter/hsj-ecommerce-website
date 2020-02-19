@@ -15,10 +15,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0244.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0244.jpg"
 category: earrings
 material: gold
 featured: false

@@ -16,10 +16,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-0034.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG_0034.jpg"
 category: necklaces
 material: grey-patina
 featured: false
