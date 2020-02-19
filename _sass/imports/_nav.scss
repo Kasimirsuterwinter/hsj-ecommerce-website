@@ -43,7 +43,11 @@
     width: 30%;
   }
   &__logo-image {
-    height: 35px;
+    height: 40px;
+    @include smaller-than-mobile {
+    height: 28px;
+    }
+
   }
   &__total-items {
     @include smaller-than-tablet {
