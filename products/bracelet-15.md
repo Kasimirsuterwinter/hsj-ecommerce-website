@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: "/images/IMG_0089.jpg"
 category: bracelets
-material: ''
+material: sterling-silver
 featured: false
 section: Store
 weight: 150
