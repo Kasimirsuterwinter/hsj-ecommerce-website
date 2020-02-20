@@ -13,7 +13,7 @@ images:
       optimized: ''
       fallback: "/images/IMG_0166.jpg"
   featured:
-  thumbnail:
+    thumbnail:
       optimized: ''
       fallback: "/images/Thumbnail-0166.jpg"
     original:
