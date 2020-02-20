@@ -23,5 +23,6 @@ category: bracelets
 material: grey-patina
 featured: false
 section: Store
+weight: 150
 
 ---
