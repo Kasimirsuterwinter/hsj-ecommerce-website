@@ -24,5 +24,6 @@ category: earrings
 material: gold
 featured: false
 section: Store
+weight: 100
 
 ---
