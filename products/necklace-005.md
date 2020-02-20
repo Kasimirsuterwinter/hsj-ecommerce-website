@@ -23,5 +23,6 @@ category: necklaces
 material: grey-patina
 featured: true
 section: Store
+weight: 250
 
 ---
