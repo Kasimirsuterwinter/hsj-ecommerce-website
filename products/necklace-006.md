@@ -24,5 +24,6 @@ category: necklaces
 material: copper
 featured: false
 section: Store
+weight: 250
 
 ---

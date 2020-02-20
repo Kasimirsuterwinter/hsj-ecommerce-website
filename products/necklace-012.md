@@ -23,5 +23,6 @@ featured: false
 section: Store
 layout: product
 material: copper
+weight: 250
 
 ---

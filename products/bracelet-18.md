@@ -20,8 +20,9 @@ images:
       optimized: ''
       fallback: "/images/DSC2036.jpg"
 category: bracelets
-material: ''
+material: gold
 featured: false
 section: Store
+weight: 150
 
 ---

@@ -23,5 +23,6 @@ category: bracelets
 material: sterling-silver
 featured: false
 section: Store
+weight: 150
 
 ---

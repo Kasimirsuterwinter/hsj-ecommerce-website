@@ -24,6 +24,6 @@ category: bracelets
 material: gold
 featured: false
 section: Store
-weight: 30
+weight: 150
 
 ---

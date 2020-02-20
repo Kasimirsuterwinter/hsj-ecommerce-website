@@ -24,5 +24,6 @@ category: earrings
 material: sterling-silver
 featured: true
 section: Store
+weight: 100
 
 ---

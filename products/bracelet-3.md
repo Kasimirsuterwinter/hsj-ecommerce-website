@@ -11,7 +11,7 @@ images:
       fallback: "/images/Thumbnail-0107.jpg"
     original:
       optimized: ''
-      fallback:
+      fallback: 
   featured:
     thumbnail:
       optimized: ''
@@ -23,5 +23,6 @@ category: bracelets
 material: copper
 featured: false
 section: Store
+weight: 150
 
 ---

@@ -23,5 +23,6 @@ featured: false
 section: Store
 layout: product
 material: grey-patina
+weight: 250
 
 ---

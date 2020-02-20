@@ -23,5 +23,6 @@ category: bracelets
 material: ''
 featured: false
 section: Store
+weight: 150
 
 ---
