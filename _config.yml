@@ -43,6 +43,7 @@ sass:
   indentWidth: 4
 plugins:
 - jekyll-menus
+- jekyll-seo-tag
 exclude:
 - Gemfile
 - Gemfile.lock
