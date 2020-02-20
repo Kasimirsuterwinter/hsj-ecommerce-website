@@ -4,7 +4,7 @@ permalink: "/posts/:slug:output_ext"
 title: Helen Suter Jewelry
 snipcart_js: https://cdn.snipcart.com/themes/v3.0.5/default/snipcart.js
 snipcart_css: https://cdn.snipcart.com/themes/v3.0.5/default/snipcart.css
-snipcart_api_key: ZTI5ZmE3NjgtZjZjMy00YzgxLWJhYzEtNTg1MDU2YjA4ZWM4NjM2Njk2ODE3MjAxNDcwNjM3
+snipcart_api_key: MzJlNDI2YWItODlmNC00M2EwLTk1NTYtNTExOWZlOTdlZGZmNjM2Njk2ODE3MjAxNDcwNjM3
 logos:
   light:
     optimized: images/hs-jewelry-logo-light.svg
