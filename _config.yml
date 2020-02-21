@@ -44,6 +44,7 @@ sass:
 plugins:
 - jekyll-menus
 - jekyll-seo-tag
+- jekyll-sitemap
 exclude:
 - Gemfile
 - Gemfile.lock
