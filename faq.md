@@ -13,11 +13,12 @@ questions:
     based on your final shipping destination and duties and taxes are the responsibility
     of the buyer. Please visit feel free to contact us for more information.
 - question: What is your return policy?
-  answer: "We hope you do not find yourself in this position, but if you need to return
-    your jewelry. \n\n* All discounted sales items are final.\n* Unused items may
-    be returned within 15 days of sale with a full refund, or within 30 days of sale
-    with store credit. \n* If your jewelry is damaged or defective, email us at jewelry(at)helensuter.studio,
-    and we’ll process a return and refund ASAP!"
+  answer: |-
+    We hope you do not find yourself in this position, but if you need to return your jewelry.
+
+    * All discounted sales items are final.
+    * Unused items may be returned within 15 days of sale with a full refund.
+    * If your jewelry is damaged or defective, email us at jewelry(at)helensuter.studio, and we’ll process a return and refund ASAP!
 - question: How do you handle sensitive customer information?
   answer: Your checkout information is securely processed through Snipcart and Square.
     We only use your email for contacting you, we will not sell your information or
