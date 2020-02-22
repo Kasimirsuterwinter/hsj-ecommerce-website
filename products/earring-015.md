@@ -2,8 +2,7 @@
 layout: product
 id: EGP015
 title: White Pearl Smoky Glass Earring
-description: White pearls frame a facet cut mat smoky grey glass bead. Sterling Silver
-  Saftey hooks.
+description: White pearls frame a facet cut mat smoky grey glass bead. Sterling Silver Safety hooks.
 price: "38"
 images:
   default:

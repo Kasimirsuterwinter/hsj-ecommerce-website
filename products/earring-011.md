@@ -1,7 +1,7 @@
 ---
 layout: product
 id: EYG011
-title: 'White Pearl and Glass Earring '
+title: White Pearl and Glass Earring
 description: White fresh water pearls and white glass beads with gold-filled hooks.
 price: "44"
 images:
@@ -24,6 +24,6 @@ material: gold
 featured: false
 section: Store
 weight: 150
-permalink: //
+permalink: /white-pearl-and-glass-earring/
 
 ---

@@ -24,6 +24,6 @@ material: gold
 featured: false
 section: Store
 published: false
-permalink: //
+permalink: /earring-016/
 
 ---

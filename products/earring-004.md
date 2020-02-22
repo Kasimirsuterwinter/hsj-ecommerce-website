@@ -25,6 +25,6 @@ material: grey-patina
 featured: false
 section: Store
 weight: 100
-permalink: //
+permalink: /pearl-and-wood-earrings/
 
 ---

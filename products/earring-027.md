@@ -24,6 +24,6 @@ material: grey-patina
 featured: false
 section: 'store'
 published: false
-permalink: //
+permalink: /earring-027/
 
 ---

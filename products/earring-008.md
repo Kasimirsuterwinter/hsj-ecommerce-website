@@ -25,6 +25,6 @@ material: grey-patina
 featured: false
 section: Store
 weight: 100
-permalink: //
+permalink: /grey-mother-of-pearl-disc-earrings/
 
 ---

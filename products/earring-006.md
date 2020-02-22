@@ -25,6 +25,6 @@ material: sterling-silver
 featured: false
 section: Store
 weight: 100
-permalink: //
+permalink: /mother-of-pearl-and-ceramic-earrings/
 
 ---

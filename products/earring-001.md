@@ -25,6 +25,6 @@ material: sterling-silver
 featured: true
 section: Store
 weight: 100
-permalink: //
+permalink: /hematite-and-mother-of-pearl-earrings/
 
 ---

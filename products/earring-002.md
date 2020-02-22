@@ -25,6 +25,6 @@ material: gold
 featured: false
 section: Store
 weight: 100
-permalink: //
+permalink: /black-quartz-and-pearl-earring/
 
 ---
