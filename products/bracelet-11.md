@@ -1,7 +1,7 @@
 ---
 layout: product
 id: BSS011
-title: 'White Pearl bracelet '
+title: White Pearl Bracelet
 description: White fresh water pearls and Sterling Silver curved tubes.
 price: "48"
 images:
@@ -24,5 +24,6 @@ material: sterling-silver
 featured: false
 section: Store
 weight: 200
+permalink: /white-pearl-bracelet/
 
 ---

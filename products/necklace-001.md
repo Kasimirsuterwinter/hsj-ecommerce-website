@@ -2,7 +2,7 @@
 layout: product
 id: NGP001
 title: Agate and Quartz Necklace
-description: Blue tumbled Agate, accented with two metalic grey Quartz crystals. Curved
+description: Blue tumbled Agate, accented with two metallic grey Quartz crystals. Curved
   spacer beads in grey patina.
 price: "95"
 images:
@@ -25,5 +25,6 @@ material: grey-patina
 featured: false
 section: Store
 weight: 250
+permalink: /agate-and-quartz-necklace/
 
 ---

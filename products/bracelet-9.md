@@ -25,5 +25,6 @@ material: copper
 featured: false
 section: Store
 weight: 150
+permalink: /rainbow-needle-quartz-bracelet/
 
 ---

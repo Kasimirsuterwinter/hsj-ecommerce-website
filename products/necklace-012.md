@@ -24,5 +24,6 @@ section: Store
 layout: product
 material: copper
 weight: 250
+permalink: /iridized-quartz-necklace/
 
 ---

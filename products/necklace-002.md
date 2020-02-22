@@ -25,5 +25,6 @@ material: sterling-silver
 featured: false
 section: Store
 published: false
+permalink: /white-quartz-crystal-necklace/
 
 ---

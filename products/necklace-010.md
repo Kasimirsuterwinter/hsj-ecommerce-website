@@ -24,5 +24,6 @@ featured: false
 section: Store
 layout: product
 published: false
+permalink: /aquamarine-agate-necklace/
 
 ---

@@ -1,6 +1,6 @@
 ---
 baseurl: "/"
-permalink: "/posts/:title"
+permalink: /products/:slug/
 title: Helen Suter Jewelry
 description: Helen Suter Jewelry is a boutique artist run jewelry line, hand made in the hudson valley, using natural materials and healing stones.
 snipcart_js: https://cdn.snipcart.com/themes/v3.0.8/default/snipcart.js
@@ -42,6 +42,7 @@ sass:
   style: nested
   precision: 10
   indentWidth: 4
+url: "https://jewelry.helensuter.studio" # the base hostname & protocol for your site
 plugins:
 - jekyll-menus
 - jekyll-seo-tag

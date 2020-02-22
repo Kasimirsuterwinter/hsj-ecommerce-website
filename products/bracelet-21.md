@@ -1,7 +1,7 @@
 ---
 layout: product
 id: BSS021
-title: 'Metallic Druzy Quartz Bracelet '
+title: Metallic Druzy Quartz Bracelet
 description: Metallic grey treated Druzy Quartz beads with Sterling Silver curved
   tube beads.
 price: "58"
@@ -25,5 +25,6 @@ material: ''
 featured: false
 section: Store
 weight: 150
+permalink: /metallic-druzy-quartz-bracelet/
 
 ---

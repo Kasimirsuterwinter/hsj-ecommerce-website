@@ -1,7 +1,7 @@
 ---
 layout: product
 id: BCP018
-title: 'Amethyst Red Gold Bracelet '
+title: Amethyst Red Gold Bracelet
 description: Raw Amethyst nuggets with red gold-filled curved tubes.
 price: "68"
 images:
@@ -24,5 +24,6 @@ material: gold
 featured: false
 section: Store
 weight: 150
+permalink: /amethyst-red-gold-bracelet/
 
 ---

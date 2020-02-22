@@ -24,5 +24,6 @@ material: sterling-silver
 featured: false
 section: Store
 published: false
+permalink: //
 
 ---

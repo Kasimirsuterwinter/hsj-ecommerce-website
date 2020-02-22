@@ -25,5 +25,6 @@ material: grey-patina
 featured: false
 section: Store
 weight: 250
+permalink: /gemstone-and-crystal-necklace/
 
 ---

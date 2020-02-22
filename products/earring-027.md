@@ -24,5 +24,6 @@ material: grey-patina
 featured: false
 section: 'store'
 published: false
+permalink: //
 
 ---

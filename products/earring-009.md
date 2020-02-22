@@ -25,5 +25,6 @@ material: gold
 featured: false
 section: Store
 weight: 150
+permalink: //
 
 ---

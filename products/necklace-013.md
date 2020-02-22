@@ -13,10 +13,10 @@ images:
       fallback: "/images/Rainbow Crystal Necklace.jpg"
   featured:
     thumbnail:
-      optimized: 
+      optimized:
       fallback: "/images/Rainbow Crystal Necklace_thumbnail.jpg"
     original:
-      optimized: 
+      optimized:
       fallback: "/images/Rainbow Crystal Necklace.jpg"
 category: necklaces
 featured: false
@@ -24,5 +24,6 @@ section: Store
 layout: product
 material: grey-patina
 weight: 250
+permalink: /rainbow-crystal-necklace/
 
 ---

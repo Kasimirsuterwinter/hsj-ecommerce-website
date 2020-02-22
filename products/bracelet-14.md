@@ -24,5 +24,6 @@ material: copper
 featured: false
 section: Store
 weight: 150
+permalink: /facet-cut-agate-bracelet/
 
 ---

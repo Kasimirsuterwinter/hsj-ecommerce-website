@@ -1,7 +1,7 @@
 ---
 layout: product
 id: BCP022
-title: 'Pebble Glass Bracelet '
+title: Pebble Glass Bracelet
 description: Blue transparent iridized smooth glass pebble with rose gold-filled curved
   tubes.
 price: "68"
@@ -24,5 +24,6 @@ category: bracelets
 material: ''
 featured: false
 section: Store
+permalink: /pebble-glass-bracelet/
 
 ---

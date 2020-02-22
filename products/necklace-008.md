@@ -24,5 +24,6 @@ material: grey-patina
 featured: true
 section: Store
 weight: 250
+permalink: /transparent-agate-necklace/
 
 ---

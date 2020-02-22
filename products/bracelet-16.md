@@ -25,5 +25,6 @@ featured: false
 section: Store
 weight: 150
 published: false
+permalink: //
 
 ---

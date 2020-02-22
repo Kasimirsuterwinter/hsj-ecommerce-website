@@ -24,5 +24,5 @@ material: copper
 featured: false
 section: Store
 weight: 150
-
+permalink: /iridescent-quartz-bracelet/
 ---

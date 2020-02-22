@@ -25,5 +25,6 @@ section: Store
 layout: product
 material: grey-patina
 weight: 250
+permalink: /white-marbled-necklace/
 
 ---

@@ -25,5 +25,6 @@ material: sterling-silver
 featured: true
 section: Store
 weight: 100
+permalink: //
 
 ---

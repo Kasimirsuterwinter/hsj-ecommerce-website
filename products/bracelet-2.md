@@ -23,5 +23,5 @@ category: bracelets
 material: sterling-silver
 featured: false
 section: Store
-
+permalink: /quartz-crystal-bracelet/
 ---

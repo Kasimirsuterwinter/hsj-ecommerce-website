@@ -24,5 +24,6 @@ material: copper
 featured: false
 section: Store
 published: false
+permalink: /iridescent-quartz-bracelet/
 
 ---

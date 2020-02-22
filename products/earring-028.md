@@ -2,7 +2,7 @@
 layout: product
 id: EYG028
 title: Labradorite and African Glass Earrings
-description: A small natural white pearl sits atop an African tumled glass and a Labradorite
+description: A small natural white pearl sits atop an African tumbled glass and a Labradorite
   bead. Gold-plated hoops.
 price: "44"
 images:
@@ -25,5 +25,6 @@ material: gold
 featured: false
 section: ''
 published: false
+permalink: /labradorite-and-african-glass-earrings/
 
 ---

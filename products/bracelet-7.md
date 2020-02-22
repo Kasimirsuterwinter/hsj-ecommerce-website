@@ -24,5 +24,6 @@ material: sterling-silver
 featured: false
 section: Store
 weight: 150
+permalink: /sterling-silver-aqua-agate-bracelet/
 
 ---

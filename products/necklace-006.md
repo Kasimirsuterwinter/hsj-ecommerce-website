@@ -25,5 +25,6 @@ material: copper
 featured: false
 section: Store
 weight: 250
+permalink: /druzy-quartz-with-amethyst-necklace/
 
 ---

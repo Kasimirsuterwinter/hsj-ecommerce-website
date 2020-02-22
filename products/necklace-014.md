@@ -24,5 +24,6 @@ section: Store
 layout: product
 material: grey-patina
 weight: 250
+permalink: /blue-crystal-necklace/
 
 ---

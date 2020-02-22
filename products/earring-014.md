@@ -24,5 +24,6 @@ material: gold
 featured: false
 section: Store
 published: false
+permalink: //
 
 ---
