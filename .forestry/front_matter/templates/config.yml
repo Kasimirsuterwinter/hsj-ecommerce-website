@@ -16,6 +16,16 @@ fields:
 - type: text
   name: title
   label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: 'The site wide description for search egines. '
 - type: text
   name: snipcart_js
   label: Snipcart JavaScript file URL
