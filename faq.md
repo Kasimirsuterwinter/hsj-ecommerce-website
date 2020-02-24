@@ -4,14 +4,14 @@ headline: FAQ
 introduction: 'Find answers to common questions. '
 questions:
 - question: How long does shipping take?
-  answer: "The length of shipping will depend on your location. We process in stock
-    orders Mon-Fri, but it may take up to 3 days to process your order. \n\n* US shipping
-    will take between 3 to 7 business days.\n* International shipping will take between
-    5 and 10 business days."
+  answer: |-
+    The length of shipping will depend on your location. We process in stock orders Mon-Fri, but it may take up to 3 days to process your order.
+
+    * US shipping will take between 3 to 7 business days.
+    * International shipping will take between 6 and 10 business days.
 - question: 'Do you ship internationally? '
-  answer: We are happy to serve shoppers from all over the world. Pricing may vary
-    based on your final shipping destination and duties and taxes are the responsibility
-    of the buyer. Please visit feel free to contact us for more information.
+  answer: 'We are currently not shipping outside of the USA. However we will be in
+    the near future. '
 - question: What is your return policy?
   answer: |-
     We hope you do not find yourself in this position, but if you need to return your jewelry.
@@ -49,3 +49,4 @@ menu:
     weight: 3
 
 ---
+We are happy to serve shoppers from all over the world. Pricing may vary based on your final shipping destination and duties and taxes are the responsibility of the buyer. Please feel free to contact me for more information.
