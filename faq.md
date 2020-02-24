@@ -27,15 +27,21 @@ questions:
   answer: 'Q: Will you create custom orders for weddings? <br /> A: Yes! We''d love
     to hear from you about your plans. Just write us at jewelry(at)helensuter.studio
     with your inquiry and we''d be delighted to develop an individualized look in
-    our signature style.  <br /><br /> Q: Is your jewelry water proof? <br /> A: Yes
-    it generally is, however some pieces with wooden beads should not be submerged
-    in water. <br /><br /> Q: Is the gold and silver solid? <br /> A: Yes, the silver
-    parts are solid Sterling silver. The gold tube beads are gold-filled, that is
-    the term used for high quality gold-plating on Sterling silver. <br /><br /> Q:
-    Can I sell your jewelry in my shop? <br /> A: Yes! Write me at jewelry(at)helensuter.studio
-    and let me know what you are interested in carrying in your store. <br /><br />
-    Q: Are you an artist as well? <br /> A: Yes, I am a trained metal sculptor and
-    work in many different materials. You can find my work at [helensuter.studio](helensuter.studio)
+    our signature style.  <br /><br /> Q: How should I care for you jewelry?<br />
+    A: In jewelry making, natural gemstones are often heated or treated using traditional
+    techniques to enhance their color. Cultured freshwater pearls occur in a variety
+    of colors and are sometimes dyed to create pleasing effects. Most treatments of
+    gems and cultured pearls are permanent, requiring little or no special care. Sterling
+    silver parts may tarnish when not worn very often. Use a jeweler’s cloth to polish
+    as required. <br /><br /> Q: Is your jewelry water proof? <br /> A: Yes it generally
+    is, however some pieces with wooden beads should not be submerged in water. <br
+    /><br /> Q: Is the gold and silver solid? <br /> A: Yes, the silver parts are
+    solid Sterling silver. The gold tube beads are gold-filled, that is the term used
+    for high quality gold-plating on Sterling silver. <br /><br /> Q: Can I sell your
+    jewelry in my shop? <br /> A: Yes! Write me at jewelry(at)helensuter.studio and
+    let me know what you are interested in carrying in your store. <br /><br /> Q:
+    Are you an artist as well? <br /> A: Yes, I am a trained metal sculptor and work
+    in many different materials. You can find my work at [helensuter.studio](helensuter.studio)
     and follow me on Instagram'
 layout: faq
 menu:
