@@ -15,6 +15,14 @@
         <title>
             {{ page.title }}
         </title>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "url": "https://jewelr.helensuter.studio",
+          "logo": "https://jewelry.helensuter.studio/images/hs-jewelry-logo-dark.svg"
+        }
+        </script>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -45,7 +53,7 @@
         <script src="{{ 'js/main.js' | relative_url }}"></script>
         <script src="{{ site.snipcart_js }}" defer></script>
         <div hidden id="snipcart" data-api-key="{{ site.snipcart_api_key }}">
-          <cart-header title="Planty">
+          <cart-header title="Helen Suter Jewelry">
             <div class="root">
               <header class="snipcart-cart-header" v-if="!loading">
                 <close-cart-action class="snipcart-cart-header__close-button snipcart-modal__close">
@@ -56,7 +64,7 @@
                 </close-cart-action>
 
                 <h3 class="snipcart-cart-header__title snipcart__font--black snipcart__font--secondary" v-if="title">
-                  <img src="{{ site.logos.dark.optimized | relative_url }}" alt="">
+                  <img src="{{ site.logos.dark.optimized | relative_url }}" alt="Helen Suter Jewelry">
                 </h3>
 
                 <div class="snipcart-cart-header__count snipcart__font--secondary snipcart__font--bold">
@@ -86,7 +94,7 @@
                     </span>
                   </close-cart-action>
 
-                  <img src="{{ site.logos.dark.optimized | relative_url }}" alt="" class="snipcart-modal__logo">
+                  <img src="{{ site.logos.dark.optimized | relative_url }}" alt="Helen Suter Jewelry" class="snipcart-modal__logo">
 
                   <div class="snipcart-modal__header-summary">
                     <div
