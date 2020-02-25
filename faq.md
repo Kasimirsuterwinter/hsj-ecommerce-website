@@ -8,7 +8,6 @@ questions:
     The length of shipping will depend on your location. We process in stock orders Mon-Fri, but it may take up to 3 days to process your order.
 
     * US shipping will take between 3 to 7 business days.
-    * International shipping will take between 6 and 10 business days.
 - question: 'Do you ship internationally? '
   answer: 'We are currently not shipping outside of the USA. However we will be in
     the near future. '
