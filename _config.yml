@@ -2,6 +2,7 @@
 baseurl: "/"
 permalink: "/products/:slug/"
 title: Helen Suter Jewelry
+tagline: Pure eye candy for work and play!
 description: 'A line of comfortable, modern jewelry designed and made in the Hudson
   Valley by sculptor Helen Suter. She uses semi-precious healing stones, crystals,
   pearls, Czech cut glass, metal and wood beads. '
@@ -66,3 +67,8 @@ exclude:
 collections:
   posts:
     permalink: "/posts/:title/"
+social:
+  name: Helen Suter Jewelry
+  links:
+    - https://instagram.com/helensuterjewelry
+logo: /images/hs-jewelry-logo-dark.svg
