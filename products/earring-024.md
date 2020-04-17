@@ -1,9 +1,9 @@
 ---
 layout: product
 id: EGP024
-title: Earring 024
-description: ''
-price: '32'
+title: Hematite Earrings
+description: 'Polished Hematite and iridized Hematite beads '
+price: "32"
 images:
   default:
     thumbnail:
@@ -23,7 +23,6 @@ category: earrings
 material: grey-patina
 featured: false
 section: Store
-published: false
-permalink: /earring-024/
+permalink: "/earring-024/"
 
 ---
