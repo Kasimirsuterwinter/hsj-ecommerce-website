@@ -1,8 +1,8 @@
 ---
 layout: product
 id: EGP027
-title: Earring 027
-description: ''
+title: Electric Blue Pom-pom Earrings
+description: Electric blue Pom-poms, black leather, glass beads
 price: "32"
 images:
   default:
@@ -22,8 +22,7 @@ images:
 category: earrings
 material: grey-patina
 featured: false
-section: 'store'
-published: false
-permalink: /earring-027/
+section: ''
+permalink: "/earring-027/"
 
 ---
