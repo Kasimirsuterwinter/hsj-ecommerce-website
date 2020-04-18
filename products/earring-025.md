@@ -1,9 +1,9 @@
 ---
 layout: product
 id: EGO025
-title: Earring 025
-description: ''
-price: '32'
+title: Grey Baroque Pearl Earrings
+description: Dyed grey and blue freshwater pearls
+price: "32"
 images:
   default:
     thumbnail:
@@ -23,7 +23,6 @@ category: earrings
 material: grey-patina
 featured: false
 section: Store
-published: false
-permalink: /earring-025/
+permalink: "/earring-025/"
 
 ---
