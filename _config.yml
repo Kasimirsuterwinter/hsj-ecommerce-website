@@ -14,8 +14,8 @@ logos:
     optimized: images/hs-jewelry-logo-light.svg
     fallback: images/hs-jewelry-logo-light.svg
   dark:
-    optimized: images/hs-jewelry-logo-dark.svg
-    fallback: images/hs-jewelry-logo-dark.svg
+    optimized: "/images/hs-jewelry-logo-dark-web.svg"
+    fallback: "/images/hs-jewelry-logo-dark-web.svg"
 palette: default
 palettes:
   default:
@@ -70,5 +70,5 @@ collections:
 social:
   name: Helen Suter Jewelry
   links:
-    - https://instagram.com/helensuterjewelry
-logo: /images/hs-jewelry-logo-dark.svg
+  - https://instagram.com/helensuterjewelry
+logo: "/images/hs-jewelry-logo-dark.svg"
