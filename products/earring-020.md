@@ -1,9 +1,9 @@
 ---
 layout: product
 id: EGP020
-title: Earring 020
-description: ''
-price: '32'
+title: Neon green Pom-pom earrings
+description: 'Pom-pom, black leather, glass beads. '
+price: "32"
 images:
   default:
     thumbnail:
@@ -23,7 +23,6 @@ category: earrings
 material: grey-patina
 featured: false
 section: Store
-published: false
-permalink: /earring-020/
+permalink: "/earring-020/"
 
 ---
