@@ -11,8 +11,8 @@ snipcart_css: https://cdn.snipcart.com/themes/v3.0.8/default/snipcart.css
 snipcart_api_key: MzJlNDI2YWItODlmNC00M2EwLTk1NTYtNTExOWZlOTdlZGZmNjM2Njk2ODE3MjAxNDcwNjM3
 logos:
   light:
-    optimized: images/hs-jewelry-logo-light.svg
-    fallback: images/hs-jewelry-logo-light.svg
+    optimized: "/images/hs-jewelry-logo-light-web.svg"
+    fallback: "/images/hs-jewelry-logo-light-web.svg"
   dark:
     optimized: "/images/hs-jewelry-logo-dark-web.svg"
     fallback: "/images/hs-jewelry-logo-dark-web.svg"
