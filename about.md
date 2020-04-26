@@ -33,5 +33,5 @@ layout: about
 menu:
   main:
     weight: 2
-
+background: light
 ---
