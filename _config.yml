@@ -33,8 +33,8 @@ palettes:
       overlay_color1: rgba(217, 194, 8, 0.71)
       overlay_color2: rgba(244, 195, 2, 0)
       promo_background: "#de206182"
-      bg_image_primary_optimized: "/images/DSC_9350_1.jpg"
-      bg_image_primary_fallback: "/images/DSC_9350_1.jpg"
+      bg_image_primary_optimized: "/images/Mother's-Day-Banner.jpg"
+      bg_image_primary_fallback: "/images/Mother's-Day-Banner.jpg"
       bg_image_secondary_optimized: "/images/leaf-light-grey.svg"
       bg_image_secondary_fallback: "/images/leaf-light-grey.svg"
       bg_image_product_optimized: "/images/leaf.svg"
