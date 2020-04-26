@@ -57,6 +57,26 @@ fields:
     config:
       color_format: Hex
     color_format: Hex
+  - name: overlay_color1
+    type: color
+    label: Overlay Color 1
+    config:
+      required: false
+      color_format: Hex
+    description: 'First color in hero section background overlay. '
+  - name: overlay_color2
+    type: color
+    config:
+      required: false
+      color_format: Hex
+    label: Overlay Color 2
+    description: 'Second overlay color on home hero background. '
+  - name: promo_background
+    type: color
+    label: Promo Background
+    config:
+      required: false
+      color_format: Hex
   - type: file
     name: bg_image_primary_optimized
     label: Primary Optimized Backround Image
