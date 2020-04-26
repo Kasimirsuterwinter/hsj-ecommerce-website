@@ -62,13 +62,13 @@ fields:
     label: Overlay Color 1
     config:
       required: false
-      color_format: Hex
+      color_format: RGB
     description: 'First color in hero section background overlay. '
   - name: overlay_color2
     type: color
     config:
       required: false
-      color_format: Hex
+      color_format: RGB
     label: Overlay Color 2
     description: 'Second overlay color on home hero background. '
   - name: promo_background
