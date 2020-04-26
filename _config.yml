@@ -30,7 +30,7 @@ palettes:
       active_dark: "#9d7d00"
       dark_grey: "#273132"
       light_grey: "#6B797A"
-      overlay_color1: rgb(255, 255, 255, 0)
+      overlay_color1: rgba(255, 255, 255, 0)
       overlay_color2: rgba(244, 195, 2, 0)
       promo_background: "#FFCB00"
       bg_image_primary_optimized: "/images/Mothers-Day-Banner.jpg"
