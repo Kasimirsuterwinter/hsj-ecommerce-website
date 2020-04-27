@@ -1,6 +1,6 @@
 ---
 layout: product
-id: BCP019
+id: BRG019
 title: Iridescent Czech Glass Bracelet
 description: Multi-hued flat rounded Czech glass beads with rose gold-filled curved
   tube beads.
@@ -25,6 +25,6 @@ material: ''
 featured: false
 section: Store
 weight: 150
-permalink: /iridescent-czech-glass-bracelet/
+permalink: "/iridescent-czech-glass-bracelet/"
 
 ---
