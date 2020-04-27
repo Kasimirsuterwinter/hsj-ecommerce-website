@@ -118,3 +118,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- products/seaglass-multi-bracelet.md
