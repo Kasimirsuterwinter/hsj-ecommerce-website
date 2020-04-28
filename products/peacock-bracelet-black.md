@@ -14,14 +14,14 @@ images:
       fallback: "/images/Thumbnail-2077.jpg"
     original:
       optimized: ''
-      fallback: "/images/_DSC2077.jpg"
+      fallback: "/images/DSC2077.jpg"
   featured:
     thumbnail:
       optimized: ''
       fallback: "/images/Thumbnail-2077.jpg"
     original:
       optimized: ''
-      fallback: "/images/_DSC2077.jpg"
+      fallback: "/images/DSC2077.jpg"
 category: bracelets
 material: sterling-silver
 featured: false
