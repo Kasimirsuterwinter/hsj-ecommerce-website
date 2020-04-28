@@ -10,17 +10,17 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
-    original:
-      optimized: ''
-      fallback: ''
-  featured:
-    thumbnail:
-      optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-2018.jpg"
     original:
       optimized: ''
       fallback: "/images/DSC2018.jpg"
+  featured:
+    thumbnail:
+      optimized: ''
+      fallback: "/images/DSC2018.jpg"
+    original:
+      optimized: ''
+      fallback: "/images/Thumbnail-2018.jpg"
 category: bracelets
 material: gold
 featured: false
