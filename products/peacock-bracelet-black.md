@@ -2,7 +2,7 @@
 section: Store
 layout: product
 weight: 0
-id: BSS 103
+id: BSS103
 title: Peacock Bracelet (black)
 description: Multi color design, lentil-shaped Czech glass beads. Sterling silver
   spacer beads.
@@ -11,17 +11,17 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-2077.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/_DSC2077.jpg"
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-2077.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/_DSC2077.jpg"
 category: bracelets
 material: sterling-silver
 featured: false
