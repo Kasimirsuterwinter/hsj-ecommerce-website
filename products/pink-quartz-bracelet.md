@@ -12,7 +12,7 @@ images:
       optimized: ''
       fallback: ''
     original:
-      optimized: ''
+      optimized: "/images/DSC2051.jpg"
       fallback: "/images/DSC2051.jpg"
   featured:
     thumbnail:
