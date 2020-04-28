@@ -10,10 +10,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Thumbnail-2029.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/DSC2029.jpg"
   featured:
     thumbnail:
       optimized: ''
