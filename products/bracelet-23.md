@@ -1,7 +1,7 @@
 ---
 layout: product
 id: BCP023
-title: bracelet 23
+title: Gold Color Quartz Bracelet
 description: ''
 price: ''
 images:
@@ -23,7 +23,7 @@ category: bracelets
 material: ''
 featured: false
 section: Store
+permalink: "//"
 published: false
-permalink: //
 
 ---
