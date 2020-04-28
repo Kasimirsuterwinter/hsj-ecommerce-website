@@ -1,9 +1,9 @@
 ---
 layout: product
 id: BYG025
-title: bracelet 25
-description: ''
-price: ''
+title: Amazonite Gold Bracelet
+description: Facetted Amazonite and gold-filled spacer beads
+price: "68"
 images:
   default:
     thumbnail:
@@ -21,9 +21,9 @@ images:
       fallback: "/images/DSC2023.jpg"
 material: gold
 category: bracelets
-featured: false
+featured: true
 section: Store
+permalink: "//"
 published: false
-permalink: //
 
 ---
