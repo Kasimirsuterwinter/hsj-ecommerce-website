@@ -5,7 +5,7 @@ weight: 0
 id: BSS101
 title: Seaglass Multi Bracelet
 description: Assorted matte glass beads, Sterling silver spacer beads.
-price: "$48"
+price: "48"
 images:
   default:
     thumbnail:
