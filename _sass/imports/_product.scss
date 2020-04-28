@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: auto repeat(5, minmax(50px, 260px)) auto;
     grid-template-rows: 210px $spacing--unit*64 $spacing--unit*9;
-    margin-top: -110px;
+    margin-top: -140px;
 
     &__background-left-overlay {
         background: radial-gradient(at 35% top, rgba(black, 0.35), rgba(black, 0.25));
