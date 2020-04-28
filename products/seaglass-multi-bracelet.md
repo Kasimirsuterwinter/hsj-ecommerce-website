@@ -3,7 +3,7 @@ section: Store
 layout: product
 weight: 0
 id: BRG100
-title: Seaglass Multi Bracelet
+title: Seaglass Multi Bracelet Gold
 description: Assorted matte finish glass beads, red-gold filled spacer beads.
 price: "68"
 images:

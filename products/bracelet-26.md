@@ -24,6 +24,5 @@ section: Store
 layout: product
 material: sterling-silver
 published: false
-permalink: /white-raw-cube-quartz-bracelet/
 
 ---

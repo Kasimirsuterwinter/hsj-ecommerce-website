@@ -18,11 +18,10 @@ images:
       fallback: "/images/Thumbnail-0107.jpg"
     original:
       optimized: ''
-      fallback: "/images/IMG_0107.jpg"
+      fallback: "/images/IMG0107.jpg"
 category: bracelets
 material: copper
 featured: false
 section: Store
 weight: 150
-permalink: /metallic-grey-quartz-bracelet/
 ---

@@ -23,7 +23,6 @@ category: bracelets
 material: ''
 featured: false
 section: Store
-permalink: "//"
 published: false
 
 ---
