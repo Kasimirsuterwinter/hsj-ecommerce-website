@@ -5,7 +5,7 @@ weight: 0
 id: BRG100
 title: Seaglass Multi Bracelet
 description: Assorted matte finish glass beads, red-gold filled spacer beads.
-price: "$68"
+price: "68"
 images:
   default:
     thumbnail:
