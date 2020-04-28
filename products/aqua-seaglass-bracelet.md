@@ -5,7 +5,7 @@ weight: 0
 id: BSS102
 title: Aqua Seaglass Bracelet
 description: Aqua-colored, matte glass beads, Sterling silver spacer beads.
-price: "$48"
+price: "48"
 images:
   default:
     thumbnail:
