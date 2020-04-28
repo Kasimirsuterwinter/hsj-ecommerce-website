@@ -23,6 +23,6 @@ images:
       fallback: "/images/DSC2029.jpg"
 category: bracelets
 material: gold
-featured: false
+featured: true
 
 ---
