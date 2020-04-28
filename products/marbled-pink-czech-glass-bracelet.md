@@ -10,10 +10,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/DSC2021.jpg"
+      fallback: "/images/Thumbnail-2021.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/DSC2021.jpg"
   featured:
     thumbnail:
       optimized: ''
