@@ -24,6 +24,5 @@ category: bracelets
 featured: true
 section: Store
 permalink: "//"
-published: false
 
 ---
