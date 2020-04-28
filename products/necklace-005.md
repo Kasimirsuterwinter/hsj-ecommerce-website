@@ -21,9 +21,9 @@ images:
       fallback: "/images/IMG_9937.jpg"
 category: necklaces
 material: grey-patina
-featured: true
+featured: false
 section: Store
 weight: 250
-permalink: /geometric-wood-necklace/
+permalink: "/geometric-wood-necklace/"
 
 ---
