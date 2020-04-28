@@ -21,7 +21,7 @@ images:
       fallback: "/images/DSC2023.jpg"
 material: gold
 category: bracelets
-featured: true
+featured: false
 section: Store
 permalink: "//"
 
