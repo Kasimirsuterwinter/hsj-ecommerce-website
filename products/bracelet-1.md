@@ -21,7 +21,8 @@ images:
       fallback: "/images/IMG_0131.jpg"
 category: bracelets
 material: copper
-featured: true
+featured: false
 section: Store
-permalink: /blue-quartz-crystal-bracelet/
+permalink: "/blue-quartz-crystal-bracelet/"
+
 ---
