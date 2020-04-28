@@ -6,7 +6,7 @@ id: BSS104
 title: Peacock Bracelet (Blue)
 description: Multi colored Czech, lentil-shaped glass beads, Sterling silver spacer
   beads.
-price: "$48"
+price: "48"
 images:
   default:
     thumbnail:
