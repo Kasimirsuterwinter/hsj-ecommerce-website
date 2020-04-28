@@ -21,9 +21,9 @@ images:
       fallback: "/images/IMG_0023.jpg"
 category: necklaces
 material: grey-patina
-featured: true
+featured: false
 section: Store
 weight: 250
-permalink: /transparent-agate-necklace/
+permalink: "/transparent-agate-necklace/"
 
 ---
