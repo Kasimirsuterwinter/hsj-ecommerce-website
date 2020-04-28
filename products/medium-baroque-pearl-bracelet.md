@@ -24,6 +24,5 @@ images:
 category: bracelets
 material: gold
 featured: false
-published: false
 
 ---
