@@ -25,6 +25,5 @@ images:
 category: bracelets
 material: sterling-silver
 featured: false
-published: false
 
 ---
