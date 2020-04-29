@@ -13,16 +13,17 @@ images:
       fallback: "/images/Thumbnail-2087.jpg"
     original:
       optimized: ''
-      fallback: "/images/DSC2087.jpg"
+      fallback: "/images/_DSC2087.jpg"
   featured:
     thumbnail:
       optimized: ''
       fallback: "/images/Thumbnail-2087.jpg"
     original:
       optimized: ''
-      fallback: "/images/DSC2087.jpg"
+      fallback: "/images/_DSC2087.jpg"
 category: bracelets
 material: sterling-silver
 featured: false
+permalink: "/aqua-seaglass-bracelet/"
 
 ---
