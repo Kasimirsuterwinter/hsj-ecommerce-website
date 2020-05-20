@@ -125,6 +125,7 @@ fields:
   label: Page URL
   description: 'The link for this page. Must begin with / and end with /. '
 pages:
+- products/amber-agate-necklace.md
 - products/aqua-seaglass-bracelet.md
 - products/clear-pink-czech-glass-bracelet.md
 - products/dalmation-spots-necklace.md
