@@ -11,7 +11,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/dsc2096.jpg"
     original:
       optimized: ''
       fallback: ''
