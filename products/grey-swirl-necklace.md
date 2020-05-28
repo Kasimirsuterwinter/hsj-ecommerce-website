@@ -11,17 +11,17 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/thumbnail-2099.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/dsc2099.jpg"
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/thumbnail-2099.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/dsc2099.jpg"
 category: necklaces
 material: grey-patina
 featured: false
