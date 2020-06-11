@@ -32,6 +32,6 @@ bulletpoints:
 layout: about
 menu:
   main:
-    weight: 2
+    weight: 1
 
 ---
