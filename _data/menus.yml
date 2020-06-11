@@ -1,1 +1,7 @@
-{}
+---
+main:
+- url: http://helensuter.studio
+  weight: 4
+  title: Art
+- weight: 1
+  title: Store

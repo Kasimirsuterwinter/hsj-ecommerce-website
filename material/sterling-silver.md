@@ -5,6 +5,6 @@ title: Sterling Silver
 section: Store
 menu:
   categories:
-    weight: 8
+    weight: 4
 
 ---
