@@ -45,7 +45,7 @@ questions:
 layout: faq
 menu:
   main:
-    weight: 2
+    weight: 3
 
 ---
 We are happy to serve shoppers from all over the world. Pricing may vary based on your final shipping destination and duties and taxes are the responsibility of the buyer. Please feel free to contact me for more information.
