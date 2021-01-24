@@ -25,6 +25,7 @@ material: grey-patina
 featured: false
 section: Store
 weight: 100
-permalink: /blown-glass-earrings/
+permalink: "/blown-glass-earrings/"
+published: false
 
 ---
