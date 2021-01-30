@@ -1,8 +1,8 @@
 ---
 id: NGP011
-title: Ebony Wood Necklace
+title: Bearclaw Necklace
 description: Soft-edge geometric black wood beads separated by grey patina metal tubes.
-price: "105"
+price: "120"
 images:
   default:
     thumbnail:
@@ -24,6 +24,6 @@ section: Store
 layout: product
 material: grey-patina
 weight: 250
-permalink: /ebony-wood-necklace/
+permalink: "/ebony-wood-necklace/"
 
 ---
